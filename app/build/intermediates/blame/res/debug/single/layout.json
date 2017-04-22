@@ -100,6 +100,10 @@
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_mode_close_item.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/notification.xml",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/notification.xml"
     },

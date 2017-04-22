@@ -941,7 +941,7 @@ containing a value of this type.
         public static final int selector_we_row=0x7f0200c9;
     }
     public static final class id {
-        public static final int action_about=0x7f0c006b;
+        public static final int action_about=0x7f0c006c;
         public static final int action_bar=0x7f0c001c;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c001b;
@@ -954,7 +954,7 @@ containing a value of this type.
         public static final int action_menu_presenter=0x7f0c0002;
         public static final int action_mode_close_button=0x7f0c0024;
         public static final int activity_chooser_view_content=0x7f0c0025;
-        public static final int alarm_label=0x7f0c005f;
+        public static final int alarm_label=0x7f0c0060;
         public static final int alarm_music=0x7f0c0058;
         public static final int alarm_name=0x7f0c0050;
         public static final int alarm_time=0x7f0c0054;
@@ -967,27 +967,27 @@ containing a value of this type.
         public static final int btn_delete_alarm=0x7f0c0055;
         public static final int btn_on_off=0x7f0c0053;
         public static final int btn_play_selected_ringtone=0x7f0c004d;
-        public static final int btn_snooze_alarm=0x7f0c0065;
-        public static final int btn_stop_alarm=0x7f0c0066;
+        public static final int btn_snooze_alarm=0x7f0c0066;
+        public static final int btn_stop_alarm=0x7f0c0067;
         public static final int btn_thank_you=0x7f0c003e;
         public static final int checkbox=0x7f0c002d;
         public static final int checkbox_container=0x7f0c0042;
         public static final int checkbox_container_row=0x7f0c0056;
         public static final int collapseActionView=0x7f0c0014;
         public static final int container_name_music=0x7f0c0057;
-        public static final int container_ringing_layout=0x7f0c0064;
+        public static final int container_ringing_layout=0x7f0c0065;
         public static final int container_time_onoff_delete=0x7f0c0052;
         public static final int default_activity_button=0x7f0c0028;
-        public static final int default_options=0x7f0c006c;
+        public static final int default_options=0x7f0c006d;
         public static final int dialog=0x7f0c0018;
         public static final int disableHome=0x7f0c0009;
-        public static final int display_notification=0x7f0c006d;
+        public static final int display_notification=0x7f0c006e;
         public static final int dropdown=0x7f0c0019;
         public static final int edit_query=0x7f0c0030;
         public static final int end=0x7f0c0010;
         public static final int expand_activities_button=0x7f0c0026;
         public static final int expanded_menu=0x7f0c002c;
-        public static final int fragment_container=0x7f0c005a;
+        public static final int fragment_container=0x7f0c005b;
         public static final int friday=0x7f0c0047;
         public static final int home=0x7f0c0003;
         public static final int homeAsUp=0x7f0c000a;
@@ -997,7 +997,7 @@ containing a value of this type.
         public static final int img_logo=0x7f0c003c;
         public static final int listMode=0x7f0c0006;
         public static final int list_item=0x7f0c0029;
-        public static final int menu_overflow=0x7f0c006a;
+        public static final int menu_overflow=0x7f0c006b;
         public static final int middle=0x7f0c0011;
         public static final int monday=0x7f0c0043;
         public static final int music_buttons_container=0x7f0c004a;
@@ -1009,10 +1009,10 @@ containing a value of this type.
         public static final int progress_circular=0x7f0c0004;
         public static final int progress_horizontal=0x7f0c0005;
         public static final int radio=0x7f0c002f;
-        public static final int range_bar_bg=0x7f0c0060;
-        public static final int range_bar_max=0x7f0c0063;
-        public static final int range_bar_min=0x7f0c0062;
-        public static final int range_bar_progress=0x7f0c0061;
+        public static final int range_bar_bg=0x7f0c0061;
+        public static final int range_bar_max=0x7f0c0064;
+        public static final int range_bar_min=0x7f0c0063;
+        public static final int range_bar_progress=0x7f0c0062;
         public static final int saturday=0x7f0c0048;
         public static final int save_alarm_btn=0x7f0c0051;
         public static final int scrollView_addAlarm=0x7f0c0040;
@@ -1027,17 +1027,17 @@ containing a value of this type.
         public static final int search_src_text=0x7f0c0037;
         public static final int search_voice_btn=0x7f0c003b;
         public static final int seekbar_alarm_volume=0x7f0c004f;
-        public static final int setting_edit=0x7f0c0069;
-        public static final int setting_icon=0x7f0c0067;
-        public static final int setting_text=0x7f0c0068;
+        public static final int setting_edit=0x7f0c006a;
+        public static final int setting_icon=0x7f0c0068;
+        public static final int setting_text=0x7f0c0069;
         public static final int shortcut=0x7f0c002e;
         public static final int showCustom=0x7f0c000b;
         public static final int showHome=0x7f0c000c;
         public static final int showTitle=0x7f0c000d;
-        public static final int snooze_alarm=0x7f0c005e;
-        public static final int snooze_minus_five=0x7f0c005b;
-        public static final int snooze_plus_five=0x7f0c005d;
-        public static final int snooze_text=0x7f0c005c;
+        public static final int snooze_alarm=0x7f0c005f;
+        public static final int snooze_minus_five=0x7f0c005c;
+        public static final int snooze_plus_five=0x7f0c005e;
+        public static final int snooze_text=0x7f0c005d;
         public static final int split_action_bar=0x7f0c001e;
         public static final int submit_area=0x7f0c0039;
         public static final int sunday=0x7f0c0049;
@@ -1049,6 +1049,7 @@ containing a value of this type.
         public static final int tuesday=0x7f0c0044;
         public static final int up=0x7f0c0021;
         public static final int useLogo=0x7f0c000e;
+        public static final int webview=0x7f0c005a;
         public static final int wednesday=0x7f0c0045;
         public static final int withText=0x7f0c0017;
     }
@@ -1085,14 +1086,15 @@ containing a value of this type.
         public static final int add_alarm_fragment=0x7f03001a;
         public static final int alarm_listview_row=0x7f03001b;
         public static final int alarms_listview=0x7f03001c;
-        public static final int choose_music_dialog=0x7f03001d;
-        public static final int edit_alarm_fragment=0x7f03001e;
-        public static final int fragment_main=0x7f03001f;
-        public static final int notification=0x7f030020;
-        public static final int range_bar=0x7f030021;
-        public static final int ringing_alarm_activity=0x7f030022;
-        public static final int settings_item=0x7f030023;
-        public static final int support_simple_spinner_dropdown_item=0x7f030024;
+        public static final int bluetooth=0x7f03001d;
+        public static final int choose_music_dialog=0x7f03001e;
+        public static final int edit_alarm_fragment=0x7f03001f;
+        public static final int fragment_main=0x7f030020;
+        public static final int notification=0x7f030021;
+        public static final int range_bar=0x7f030022;
+        public static final int ringing_alarm_activity=0x7f030023;
+        public static final int settings_item=0x7f030024;
+        public static final int support_simple_spinner_dropdown_item=0x7f030025;
     }
     public static final class menu {
         public static final int main_activity_actions=0x7f0d0000;

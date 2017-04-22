@@ -9,6 +9,7 @@ import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.webkit.WebView;
 import android.widget.ListAdapter;
 
 import net.raffy.mp3alarmclock.R;
@@ -23,7 +24,7 @@ import net.raffy.mp3alarmclock.view.fragment.EditAlarmFragment;
 
 public class MainActivity extends Activity implements
 		AlarmsListFragment.OnAlarmSelectedListener {
-
+	WebView webHtmlCss;
 	public static Intent newAlarmsListFragment(Activity activity) {
 		Intent intent = new Intent();
 		intent.setClass(activity, AlarmsListFragment.class);
@@ -38,6 +39,7 @@ public class MainActivity extends Activity implements
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.fragment_main);
+
 
 		initializeAlarmsManager();
 		refreshListAdapter();

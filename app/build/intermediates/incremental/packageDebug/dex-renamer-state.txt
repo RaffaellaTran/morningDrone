@@ -1,4 +1,4 @@
-#Sat Apr 22 16:52:29 CEST 2017
+#Sat Apr 22 23:25:37 CEST 2017
 base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a5a27d6297c979311e6ee155871898303d054039
 renamed.1=classes.dex
 renamed.0=classes2.dex
