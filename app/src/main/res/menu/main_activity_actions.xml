@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mp3alarm.MainActivity">
+
+    <!--
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_overflow"
+        app:showAsAction="ifRoom"/> 
+    -->
+    <item
+        android:id="@+id/menu_overflow"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_overflow"
+
+        android:title="@string/action_about">
+        <menu>
+            <item
+                android:id="@+id/action_about"
+                android:title="@string/action_about"/>
+            <item android:id="@+id/default_options"
+                android:title="@string/default_options" />
+            <item android:id="@+id/display_notification"
+                android:title="@string/display_notification"
+                android:checkable="true" />
+
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/raw/autobots_roll_out.mp3",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/raw/autobots_roll_out.mp3"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/raw/best_wake_up_sound.mp3",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/raw/best_wake_up_sound.mp3"
+    }
+]
