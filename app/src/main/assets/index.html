@@ -99,11 +99,11 @@ Please note that you must use a HM-10 compatible module for this example to work
 			function(device)
 			{
 				app.device = device;
-				app.showMessage('Connected! Touch buttons to turn LED on/off.');
+				app.showMessage('Connected! Touch buttons to turn LED on/off. \r\n ');
 			},
 			function(errorCode)
 			{
-				app.showMessage('Connect error: ' + errorCode + '.');
+				app.showMessage('Connect error: ' + errorCode + '.  \r\n ');
 			});
 	};
 

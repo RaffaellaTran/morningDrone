@@ -86,10 +86,7 @@
     <string name="dismiss">DISMISS</string>
     <string name="alarm_options">Alarm Options</string>
     <string name="plus_five">+5</string>
-
-
-
-
+    <string name="bluetooth">bluetooth</string>
 
 
 </resources>

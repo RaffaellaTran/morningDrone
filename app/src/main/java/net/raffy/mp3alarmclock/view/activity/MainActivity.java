@@ -99,6 +99,9 @@ public class MainActivity extends Activity implements
 			case R.id.action_about:
 				Intent intent = new Intent(this, AboutActivity.class);
 				startActivity(intent);
+			case R.id.bluetooth:
+				Intent intent2 = new Intent(this, Bluetooth.class);
+				startActivity(intent2);
 			case R.id.default_options:
 				 AlarmOptions options = new AlarmOptions();
 				Bundle b = new Bundle();
