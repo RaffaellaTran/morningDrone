@@ -15,6 +15,9 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+
 
     <application
         android:allowBackup="true"
@@ -56,7 +59,7 @@
         <service
             android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"
             android:enabled="true"
-            android:permission="net.mariyana.mp3alarmclock.MY_SERVICE_PERMISSION" />
+            android:permission="net.raffy.mp3alarmclock.MY_SERVICE_PERMISSION" />
 
         <receiver
             android:name="net.raffy.mp3alarmclock.view.PlayAlarmReceiver"
@@ -65,6 +68,16 @@
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
+        <provider
+            android:name="net.raffy.mp3alarmclock.view.activity.AlarmClockProvider"
+            android:authorities="net.raffy.mp3alarmclock.provider"
+            android:exported="false" />
+        <activity
+            android:name="net.raffy.mp3alarmclock.view.activity.AlarmNotificationActivity"
+            android:screenOrientation="portrait"
+            android:launchMode="singleInstance"
+            android:taskAffinity=""
+            android:excludeFromRecents="true" />
     </application>
 
 </manifest>

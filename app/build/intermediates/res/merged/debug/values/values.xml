@@ -257,7 +257,7 @@
         <item name="android:actionBarStyle">@style/actionBar</item>
         <item name="android:windowBackground">@color/white</item>
 
-        
+        <!-- Support library compatibility -->
         <item name="actionBarStyle">@style/actionBar</item>
         <item name="background">@color/white</item>
     </style>
@@ -843,6 +843,11 @@
     <style name="actionBarTitle" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
         <item name="android:textColor">@color/bgDark</item>
         <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="button5min" parent="android:Widget.Button">
+
+        <item name="android:background">@color/accentStrong</item>
+
     </style>
     <style name="buttonMain" parent="android:Widget.Button">
         <item name="android:background">@drawable/selector_btn_main</item>

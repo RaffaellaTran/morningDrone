@@ -72,6 +72,12 @@
         <item name="android:layout_alignParentBottom">true</item>
     </style>
 
+    <style name="button5min" parent="android:Widget.Button">
+
+        <item name="android:background">@color/accentStrong</item>
+
+    </style>
+
     <!-- Timepicker -->
     <!--
     <style name="timePicker" parent="android:Widget.NumberPicker">

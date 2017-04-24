@@ -956,6 +956,10 @@
     </style><style name="actionBar" parent="android:Widget.ActionBar">
         <item name="android:background">@color/white</item>
         <item name="android:titleTextStyle">@style/actionBarTitle</item>
+    </style><style name="button5min" parent="android:Widget.Button">
+
+        <item name="android:background">@color/accentStrong</item>
+
     </style><style name="buttonMainPressed" parent="android:Widget.Button">
         <item name="android:background">@color/accentStrong</item>
         <item name="android:textColor">@color/white</item>

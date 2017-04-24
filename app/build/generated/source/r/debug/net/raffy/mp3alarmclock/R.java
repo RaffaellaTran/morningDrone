@@ -1337,8 +1337,9 @@ containing a value of this type.
         public static final int actionBar=0x7f090043;
         public static final int actionBarOverflow=0x7f090044;
         public static final int actionBarTitle=0x7f090045;
+        public static final int button5min=0x7f090098;
         public static final int buttonMain=0x7f090046;
-        public static final int buttonMainPressed=0x7f090098;
+        public static final int buttonMainPressed=0x7f090099;
         public static final int buttonMusic=0x7f090047;
         public static final int buttonSnooze=0x7f090048;
         public static final int editTextNormal=0x7f090049;

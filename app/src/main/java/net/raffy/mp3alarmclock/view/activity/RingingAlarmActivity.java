@@ -7,6 +7,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -17,20 +18,24 @@ import android.widget.TextView;
 import net.raffy.mp3alarmclock.R;
 import net.raffy.mp3alarmclock.model.Alarm;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
+import net.raffy.mp3alarmclock.view.AlarmNotificationService;
 import net.raffy.mp3alarmclock.view.MediaPlayerService;
+
+import static android.content.ContentValues.TAG;
 
 
 public class RingingAlarmActivity extends Activity {
 	private Window window;
 	private AlarmsManager alarmsManger;
 	public static final int SNOOZING_NOTIFICATION_ID = 222;
-
+	private int snooze;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
 		window = this.getWindow();
 		window.addFlags(WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD);
+		// Make sure this window always shows over the lock screen.
 		window.addFlags(WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED);
 		window.addFlags(WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON);
 		window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
@@ -48,6 +53,51 @@ public class RingingAlarmActivity extends Activity {
 
 		TextView alarmName = (TextView) findViewById(R.id.alarm_name);
 		alarmName.setText(alarm.getName());
+
+		final long alarmid = getIntent().getLongExtra(
+				AlarmNotificationService.ALARM_ID, DbUtil.Settings.DEFAULTS_ID);
+		Log.i(TAG, "Alarm notification intent " + alarmid);
+
+
+		// Pull snooze from saved state or options database.
+
+
+		final TextView snooze_text = (TextView)findViewById(R.id.snooze_text);
+		snooze_text.setText(getString(R.string.minutes, snooze));
+
+
+
+		findViewById(R.id.snooze_minus_five).setOnClickListener(
+				new View.OnClickListener() {
+					@Override
+					public void onClick(View view) {
+						snooze -= 5;
+						if (snooze <= 0) snooze = 5;
+						snooze_text.setText(getString(R.string.minutes, snooze));
+					}
+				});
+
+		findViewById(R.id.snooze_plus_five).setOnClickListener(
+				new View.OnClickListener() {
+					@Override
+					public void onClick(View view) {
+						snooze += 5;
+						if (snooze >= 60) snooze = 60;
+						snooze_text.setText(getString(R.string.minutes, snooze));
+					}
+				});
+
+		/*findViewById(R.id.snooze_alarm).setOnClickListener(
+				new View.OnClickListener() {
+					@Override
+					public void onClick(View view) {
+						AlarmNotificationService.snoozeAllAlarms(
+								getApplicationContext(),
+								TimeUtil.nextMinute(snooze).getTimeInMillis());
+						finish();
+					}
+				});*/
+
 
 		Button snoozeBtn = (Button) findViewById(R.id.btn_snooze_alarm);
 		snoozeBtn.setOnClickListener(new OnClickListener() {

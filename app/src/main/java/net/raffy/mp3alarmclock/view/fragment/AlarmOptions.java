@@ -17,8 +17,8 @@ package net.raffy.mp3alarmclock.view.fragment;
 import android.app.DialogFragment;
 import android.media.MediaPlayer;
 
-
 public class AlarmOptions extends DialogFragment {
+
  //   private final SettingsObserver observer = new SettingsObserver();
     private MediaPlayer player = null;
     private int init_volume = 0;

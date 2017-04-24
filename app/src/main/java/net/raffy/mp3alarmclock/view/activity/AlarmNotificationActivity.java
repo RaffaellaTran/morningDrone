@@ -42,7 +42,7 @@ public class AlarmNotificationActivity extends Activity {
     @Override
     public void onCreate(Bundle state) {
         super.onCreate(state);
-        setContentView(R.layout.ringing_alarm_activity);
+        setContentView(R.layout.notification);
         // Make sure this window always shows over the lock screen.
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED);
 
