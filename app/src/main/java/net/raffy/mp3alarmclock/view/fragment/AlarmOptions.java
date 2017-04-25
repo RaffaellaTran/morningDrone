@@ -19,7 +19,7 @@ import android.media.MediaPlayer;
 
 public class AlarmOptions extends DialogFragment {
 
- //   private final SettingsObserver observer = new SettingsObserver();
+    //private final SettingsObserver observer = new SettingsObserver();
     private MediaPlayer player = null;
     private int init_volume = 0;
 /*
@@ -397,7 +397,7 @@ public class AlarmOptions extends DialogFragment {
                             c.getContentResolver().update(settings, val, null, null);
                         }
                     });
-
+/*
             // VOLUME FADE
             final TextView volume_status = new TextView(c);
             volume_status.setText(c.getString(R.string.fade_description,
@@ -512,7 +512,7 @@ public class AlarmOptions extends DialogFragment {
 
         private void setView(ViewGroup g, View v, float gravity) {
             LinearLayout.LayoutParams p = new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT, gravity);
+                    LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT, gravity);
             p.gravity = Gravity.CENTER;
             g.addView(v, -1, p);
         }

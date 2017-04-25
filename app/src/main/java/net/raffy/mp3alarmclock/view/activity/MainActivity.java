@@ -5,7 +5,6 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -14,10 +13,8 @@ import android.widget.ListAdapter;
 
 import net.raffy.mp3alarmclock.R;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
-import net.raffy.mp3alarmclock.view.AlarmNotificationService;
 import net.raffy.mp3alarmclock.view.AlarmsListArrayAdapter;
 import net.raffy.mp3alarmclock.view.fragment.AddAlarmFragment;
-import net.raffy.mp3alarmclock.view.fragment.AlarmOptions;
 import net.raffy.mp3alarmclock.view.fragment.AlarmsListFragment;
 import net.raffy.mp3alarmclock.view.fragment.EditAlarmFragment;
 
@@ -102,7 +99,7 @@ public class MainActivity extends Activity implements
 			case R.id.bluetooth:
 				Intent intent2 = new Intent(this, Bluetooth.class);
 				startActivity(intent2); 	return true;
-			case R.id.default_options:
+			/*case R.id.default_options:
 				 AlarmOptions options = new AlarmOptions();
 				Bundle b = new Bundle();
 				b.putLong( AlarmNotificationService.ALARM_ID, DbUtil.Settings.DEFAULTS_ID);
@@ -118,7 +115,7 @@ public class MainActivity extends Activity implements
 						.putBoolean(AlarmNotificationService.DISPLAY_NOTIFICATION, new_val)
 						.commit();
 				AlarmNotificationService.refreshNotificationBar(this);
-				return true;
+				return true;*/
 
 			/*case R.id.delete_all:
 				new DialogFragment() {
