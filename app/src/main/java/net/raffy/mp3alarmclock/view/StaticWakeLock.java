@@ -27,5 +27,6 @@ public class StaticWakeLock {
         } catch (Exception e) {
             //e.printStackTrace();
         }
+
     }
 }
