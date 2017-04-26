@@ -7,6 +7,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Vibrator;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -144,6 +145,23 @@ public class RingingAlarmActivity extends Activity {
 			}
 		});
 
+		Intent intent = new Intent(getApplicationContext(),
+				MediaPlayerService.class);
+		intent.putExtra(MediaPlayerService.START_PLAY, true);
+		intent.putExtra(Alarm.INTENT_ID, alarmId);
+		Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+		// Start without a delay
+		// Vibrate for 100 milliseconds
+		// Sleep for 1000 milliseconds
+		long[] pattern = {0, 100, 1000};
+
+		// The '0' here means to repeat indefinitely
+		// '0' is actually the index at which the pattern keeps repeating from (the start)
+		// To repeat the pattern from any other point, you could increase the index, e.g. '1'
+		v.vibrate(pattern, 0);
+
+		startService(intent);
+
 		Button stopBtn = (Button) findViewById(R.id.btn_stop_alarm);
 		stopBtn.setOnClickListener(new OnClickListener() {
 
@@ -153,7 +171,8 @@ public class RingingAlarmActivity extends Activity {
 				Intent intent = new Intent(getApplicationContext(),
 						MediaPlayerService.class);
 				stopService(intent);
-
+				Vibrator vi = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+				vi.cancel();
 				alarmsManger.cancelAlarm(alarm.getId() + 1000);
 
 				if (alarm.getMo() || alarm.getTu() || alarm.getWe()
@@ -171,11 +190,9 @@ public class RingingAlarmActivity extends Activity {
 			}
 		});
 
-		Intent intent = new Intent(getApplicationContext(),
-				MediaPlayerService.class);
-		intent.putExtra(MediaPlayerService.START_PLAY, true);
-		intent.putExtra(Alarm.INTENT_ID, alarmId);
-		startService(intent);
+
+
+
 	}
 
 	@Override

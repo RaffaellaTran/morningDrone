@@ -14,6 +14,7 @@ import android.widget.ListAdapter;
 import net.raffy.mp3alarmclock.R;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
 import net.raffy.mp3alarmclock.view.AlarmsListArrayAdapter;
+import net.raffy.mp3alarmclock.view.StaticWakeLock;
 import net.raffy.mp3alarmclock.view.fragment.AddAlarmFragment;
 import net.raffy.mp3alarmclock.view.fragment.AlarmsListFragment;
 import net.raffy.mp3alarmclock.view.fragment.EditAlarmFragment;
@@ -167,6 +168,12 @@ public class MainActivity extends Activity implements
 		refreshListAdapter();
 	}
 
+    @Override
+    protected void onPause() {
+        super.onPause();
+        StaticWakeLock.lockOff(this);
+    }
+
 	@Override
 	protected void onStop() {
 		super.onStop();
@@ -222,6 +229,8 @@ public class MainActivity extends Activity implements
 		alarmAdapter.notifyDataSetChanged();
 
 	}
+
+
 
 	// public void onDeleteButtonClickListener(View view) {
 	// Long alarmId = (Long) view.getTag();

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/anim/abc_fade_in.xml"
     },
@@ -18,6 +26,14 @@
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/anim/slide_out_left.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",

@@ -87,6 +87,14 @@
     <string name="alarm_options">Alarm Options</string>
     <string name="plus_five">+5</string>
     <string name="bluetooth">bluetooth</string>
+    <string name="admin_receiver_status_enabled">admin receiver status enabled</string>
+    <string name="admin_receiver_status_disabled">admin receiver status disabled</string>
+    <string name="internal">Internal</string>
+    <string name="artists">Artists</string>
+    <string name="songs">Songs</string>
+    <string name="selected">Selected: </string>
+    <string name="alarm_tone">Alarm tone</string>
+    <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
 
 
 </resources>
