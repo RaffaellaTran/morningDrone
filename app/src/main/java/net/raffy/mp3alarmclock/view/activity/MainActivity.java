@@ -8,11 +8,12 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.webkit.WebView;
 import android.widget.ListAdapter;
 
 import net.raffy.mp3alarmclock.R;
+import net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
+import net.raffy.mp3alarmclock.morning_drone.Bluetooth2;
 import net.raffy.mp3alarmclock.view.AlarmsListArrayAdapter;
 import net.raffy.mp3alarmclock.view.StaticWakeLock;
 import net.raffy.mp3alarmclock.view.fragment.AddAlarmFragment;
@@ -22,7 +23,7 @@ import net.raffy.mp3alarmclock.view.fragment.EditAlarmFragment;
 
 public class MainActivity extends Activity implements
 		AlarmsListFragment.OnAlarmSelectedListener {
-	WebView webHtmlCss;
+
 	public static Intent newAlarmsListFragment(Activity activity) {
 		Intent intent = new Intent();
 		intent.setClass(activity, AlarmsListFragment.class);
@@ -98,8 +99,11 @@ public class MainActivity extends Activity implements
 				Intent intent = new Intent(this, AboutActivity.class);
 				startActivity(intent); 	return true;
 			case R.id.bluetooth:
-				Intent intent2 = new Intent(this, Bluetooth.class);
+				Intent intent2 = new Intent(this, MyActivityBluetooth.class);
 				startActivity(intent2); 	return true;
+			case R.id.bluetooth2:
+				Intent intent3 = new Intent(this, Bluetooth2.class);
+				startActivity(intent3); 	return true;
 			/*case R.id.default_options:
 				 AlarmOptions options = new AlarmOptions();
 				Bundle b = new Bundle();
