@@ -95,6 +95,22 @@
     <string name="selected">Selected: </string>
     <string name="alarm_tone">Alarm tone</string>
     <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
+    <string name="message">Are you sure?</string>
+    <string name="wait">Wait to connect the device...</string>
+    <string name="ioexception">Connect failed!</string>
+    <string name="nodevice">There isn\'t bluetooch devices!</string>
+    <string name="searchdevice">Search Device</string>
+    <string name="selectonedevice">select device to connect</string>
+    <string name="scaning">Scaning...</string>
+    <string name="monitor">Monitor</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="hexview">View as Hex</string>
+    <string name="hexsend">Send as Hex</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="newline">Send as New Line</string>
+    <string name="bluetooth2">bluetooth2</string>
 
 
 </resources>

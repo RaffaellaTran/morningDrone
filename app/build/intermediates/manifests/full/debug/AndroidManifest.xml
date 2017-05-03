@@ -117,12 +117,30 @@
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.Bluetooth"
+            android:name="net.raffy.mp3alarmclock.bluetooth.MainActivityBluetooth"
             android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
+        <activity
+            android:name="net.raffy.mp3alarmclock.morning_drone.Bluetooth2"
+            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth"
+            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+        </activity>
+        <activity android:name="net.raffy.mp3alarmclock.bluetooth.MonitorActivityBluetooth" />
+        <activity android:name="net.raffy.mp3alarmclock.bluetooth.SearchDeviceActivityBluetooth" />
+        <activity android:name="net.raffy.mp3alarmclock.bluetooth.SettingsActivityBluetooth" />
+        <activity android:name="net.raffy.mp3alarmclock.bluetooth.NextActivityBluetooth" />
 
         <service
             android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"

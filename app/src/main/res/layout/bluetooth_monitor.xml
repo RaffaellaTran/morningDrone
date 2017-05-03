@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dip" >
+
+    <RelativeLayout
+        android:id="@+id/editPanel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/sEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" >
+        </EditText>
+
+        <CheckBox
+            android:id="@+id/cbxHexSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sEditText"
+            android:text="@string/hexsend" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/cbxNewLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/cbxHexSend"
+            android:layout_below="@id/sEditText"
+            android:layout_toRightOf="@id/cbxHexSend"
+            android:text="@string/newline" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/cbxHexView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cbxHexSend"
+            android:text="@string/hexview" >
+        </CheckBox>
+
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/cbxNewLine"
+            android:layout_below="@id/cbxNewLine"
+            android:onClick="onButtonClickclear"
+            android:text="@string/clear" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnSend"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cbxNewLine"
+            android:layout_toRightOf="@id/btnClear"
+            android:onClick="onButtonClicksend"
+            android:text="@string/send" >
+        </Button>
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="1500dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/sTextView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/sEditText"
+            android:text="hitesh" />
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="1500dp"
+        android:background="#000000" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="1500dp"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:id="@+id/tableLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TableRow
+                    android:id="@+id/tableRow00"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="1dip" >
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:padding="1dip" >
+
+                    <Button
+                        android:id="@+id/button1"
+                        android:layout_width="120dip"
+                        android:layout_marginLeft="10dip"
+                        android:onClick="onButtonClicksend1"
+                        android:text="AC Bulb ON" />
+
+
+                </TableRow>
+            </TableLayout>
+
+
+        </LinearLayout> </ScrollView>
+</RelativeLayout>
