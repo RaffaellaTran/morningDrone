@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d674f14c2031e410c15230d7d952f6b6d3a5358">
+        <dex dex="/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d00352350ea148048db483d7a99787850653ba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23aa065c0ce1f19440deb0a2dd25f38d77079a66/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/pre-dexed/debug/classes_0c4bb0f192f00c07dde1eec1ebe3435d2746d0e1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e38ab008d270b2880cee1397b7bbd8520551a328">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c83accb16e7ef257735c67b36bffb0839b055b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_ee8f9d869b376c59154cd5f4a1e4454b35c86161.jar" />
+        <dex dex="/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a5a27d6297c979311e6ee155871898303d054039/classes.dex" />
     </item>
 
 </items>

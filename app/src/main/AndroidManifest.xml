@@ -5,9 +5,9 @@
     android:versionCode="1"
     android:versionName="1.0">
 
-    <uses-sdk
+    <!--<uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="19" />
+        android:targetSdkVersion="19" />-->
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -94,17 +94,18 @@
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth"
+            android:name="net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceScanActivity"
             android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
-        <activity android:name=".bluetooth.MonitorActivityBluetooth"></activity>
-        <activity android:name=".bluetooth.SearchDeviceActivityBluetooth"></activity>
-        <activity android:name=".bluetooth.SettingsActivityBluetooth"></activity>
-        <activity android:name=".bluetooth.NextActivityBluetooth"></activity>
-
+        <activity android:name=".bluetooth.MonitorActivityBluetooth"/>
+        <activity android:name=".bluetooth.SearchDeviceActivityBluetooth"/>
+        <activity android:name=".bluetooth.SettingsActivityBluetooth"/>
+        <activity android:name=".bluetooth.NextActivityBluetooth"/>
+        <activity android:name=".bluetooth_LE_GATT.DeviceControlActivity"/>
+        <service android:name=".bluetooth_LE_GATT.BluetoothLeService" android:enabled="true"/>
 
         <service
             android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"

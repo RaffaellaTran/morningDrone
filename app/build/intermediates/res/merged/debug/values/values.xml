@@ -196,6 +196,7 @@
     <string name="app_name">mp3 alarm</string>
     <string name="app_version_credits">Version 1.0 beta \n \n Drop us a line at \n mp3alarmclock@gmail.com</string>
     <string name="artists">Artists</string>
+    <string name="ble_not_supported">BLE is not supported</string>
     <string name="bluetooth">bluetooth</string>
     <string name="bluetooth2">bluetooth2</string>
     <string name="btn_add_music">music</string>
@@ -206,6 +207,7 @@
     <string name="btn_stop_alarm">stop</string>
     <string name="cancel">Cancel</string>
     <string name="clear">Clear</string>
+    <string name="connected">Connected</string>
     <string name="day">%d day</string>
     <string name="days">%d days</string>
     <string name="default_options">Default Alarm Options</string>
@@ -215,6 +217,7 @@
     <string name="delete_all_sure">Are you sure you want to delete all alarms?</string>
     <string name="delete_sure">Are you sure you want to delete this alarm?</string>
     <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
+    <string name="disconnected">Disconnected</string>
     <string name="dismiss">DISMISS</string>
     <string name="dismiss_alarm">dismiss</string>
     <string name="display_notification">Persistent Notification</string>
@@ -233,6 +236,7 @@
     <string name="dow_tue_short">Tu</string>
     <string name="dow_wed">Wednesday</string>
     <string name="dow_wed_short">W</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
     <string name="everyday">Every day</string>
     <string name="exit">Exit</string>
     <string name="fade_description">%1$d%% to %2$d%% over %3$d seconds</string>
@@ -244,6 +248,13 @@
     <string name="internal">Internal</string>
     <string name="ioexception">Connect failed!</string>
     <string name="label">Label</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
     <string name="message">Are you sure?</string>
     <string name="minus_five">-5</string>
     <string name="minute">%d minute</string>
@@ -252,6 +263,7 @@
     <string name="monday"><u/></string>
     <string name="monitor">Monitor</string>
     <string name="newline">Send as New Line</string>
+    <string name="no_data">No data</string>
     <string name="no_repeats">No repeats</string>
     <string name="nodevice">There isn\'t bluetooch devices!</string>
     <string name="ok">OK</string>
@@ -273,7 +285,11 @@
     <string name="thursday"><u/></string>
     <string name="time_out_error">WARNING: This alarm has timed out waiting for an acknowledgment.</string>
     <string name="time_out_title">Alarm time out</string>
+    <string name="title_devices">BLE Device Scan</string>
     <string name="tuesday"><u/></string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
     <string name="wait">Wait to connect the device...</string>
     <string name="wednesday"><u/></string>
     <string name="weekdays">Weekdays</string>

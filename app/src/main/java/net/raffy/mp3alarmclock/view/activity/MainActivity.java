@@ -10,8 +10,8 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.ListAdapter;
 
+import net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceScanActivity;
 import net.raffy.mp3alarmclock.R;
-import net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
 import net.raffy.mp3alarmclock.morning_drone.Bluetooth2;
 import net.raffy.mp3alarmclock.view.AlarmsListArrayAdapter;
@@ -95,11 +95,11 @@ public class MainActivity extends Activity implements
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
-			case R.id.action_about:
+			/*case R.id.action_about:
 				Intent intent = new Intent(this, AboutActivity.class);
-				startActivity(intent); 	return true;
+				startActivity(intent); 	return true;*/
 			case R.id.bluetooth:
-				Intent intent2 = new Intent(this, MyActivityBluetooth.class);
+				Intent intent2 = new Intent(this, DeviceScanActivity.class);
 				startActivity(intent2); 	return true;
 			case R.id.bluetooth2:
 				Intent intent3 = new Intent(this, Bluetooth2.class);

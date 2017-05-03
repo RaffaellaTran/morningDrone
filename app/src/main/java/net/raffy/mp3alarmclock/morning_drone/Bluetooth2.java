@@ -18,7 +18,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Set;
-import java.util.UUID;
 
 /**
  * Created by raffy on 01/05/17.
@@ -26,7 +25,7 @@ import java.util.UUID;
 
 public class Bluetooth2 extends Activity
     {
-        TextView myLabel;
+        private TextView myLabel;
         EditText myTextbox;
         BluetoothAdapter mBluetoothAdapter;
         BluetoothSocket mmSocket;
@@ -36,7 +35,6 @@ public class Bluetooth2 extends Activity
         Thread workerThread;
         byte[] readBuffer;
         int readBufferPosition;
-        int counter;
         volatile boolean stopWorker;
 
         @Override
@@ -55,13 +53,13 @@ public class Bluetooth2 extends Activity
             openButton.setOnClickListener(new View.OnClickListener()
             {
                 public void onClick(View v)
-                {
-                    try
+                { findBT();
+                    /*try
                     {
                         findBT();
                         openBT();
                     }
-                    catch (IOException ex) { }
+                    catch (IOException ex) { }*/
                 }
             });
 
@@ -121,9 +119,9 @@ public class Bluetooth2 extends Activity
             myLabel.setText("Bluetooth Device Found");
         }
 
-        void openBT() throws IOException
+        /*void openBT() throws IOException
         {
-            UUID uuid = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB"); //Standard SerialPortService ID
+            UUID uuid = UUID.fromString("00002a37-0000-1000-8000-00805f9b34fb"); //Standard SerialPortService ID
             mmSocket = mmDevice.createRfcommSocketToServiceRecord(uuid);
             mmSocket.connect();
             mmOutputStream = mmSocket.getOutputStream();
@@ -132,7 +130,7 @@ public class Bluetooth2 extends Activity
             beginListenForData();
 
             myLabel.setText("Bluetooth Opened");
-        }
+        }*/
 
         void beginListenForData()
         {
@@ -193,10 +191,12 @@ public class Bluetooth2 extends Activity
 
         void sendData() throws IOException
         {
-            String msg = myTextbox.getText().toString();
-            msg += "\n";
-            mmOutputStream.write(msg.getBytes());
-            myLabel.setText("Data Sent");
+            String msg = myTextbox.getText().toString(); //myTextbox.getText().toString();
+            msg = msg + "\r\n";
+            byte[] mess= msg.getBytes();
+            if (mess!= null )
+            {mmOutputStream.write(mess);
+            myLabel.setText("Data Sent");}
         }
 
         void closeBT() throws IOException
