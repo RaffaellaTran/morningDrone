@@ -1,5 +1,5 @@
 package net.raffy.mp3alarmclock.view.activity;
-
+import android.view.KeyEvent;
 import android.app.Activity;
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -21,11 +21,27 @@ import net.raffy.mp3alarmclock.model.Alarm;
 import net.raffy.mp3alarmclock.morning_drone.AlarmsManager;
 import net.raffy.mp3alarmclock.view.AlarmNotificationService;
 import net.raffy.mp3alarmclock.view.MediaPlayerService;
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.Editor;
 
 import static android.content.ContentValues.TAG;
 
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.CompoundButton;
+import android.widget.ToggleButton;
+//import R.id.action_settings;
+import net.raffy.mp3alarmclock.model.HomeKeyLocker;
 
-public class RingingAlarmActivity extends Activity {
+
+public class RingingAlarmActivity extends Activity  {
+
+	//private ToggleButton mTbLock;
+	private HomeKeyLocker mHomeKeyLocker;
+
+
 	private Window window;
 	private AlarmsManager alarmsManger;
 	public static final int SNOOZING_NOTIFICATION_ID = 222;
@@ -33,6 +49,10 @@ public class RingingAlarmActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+
+		mHomeKeyLocker = new HomeKeyLocker();
+		//mTbLock = (ToggleButton) findViewById(R.id.tb_lock);
+		//mTbLock.setOnCheckedChangeListener(this);
 
 		window = this.getWindow();
 		window.addFlags(WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD);
@@ -190,27 +210,111 @@ public class RingingAlarmActivity extends Activity {
 			}
 		});
 
+	}
+	@Override
+	public boolean dispatchKeyEvent(KeyEvent event) {
+		int action = event.getAction();
+		int keyCode = event.getKeyCode();
+		switch (keyCode) {
+			case KeyEvent.KEYCODE_VOLUME_UP:
+				if (action == KeyEvent.ACTION_DOWN) {
+					//TODO
+				}
+				return true;
+			case KeyEvent.KEYCODE_VOLUME_DOWN:
+				if (action == KeyEvent.ACTION_DOWN) {
+					//TODO
+				}
+				return true;
+			case KeyEvent.KEYCODE_HOME:
+				if (action == KeyEvent.ACTION_DOWN) {
+                    mHomeKeyLocker.lock(this);
 
+			}
+				//return true;
 
-
+			default:
+				return super.dispatchKeyEvent(event);
+		}
 	}
 
 	@Override
-	public void onBackPressed() {
-		super.onBackPressed();
-		finish();
+	public boolean onKeyDown(int keyCode, KeyEvent event)
+	{
+		if(keyCode==KeyEvent.KEYCODE_HOME)
+		{
+			onStop();
+		}
+		return super.onKeyDown(keyCode, event);
 	}
+
+
+	@Override
+	public void onBackPressed() {
+		//super.onBackPressed();
+		//finish();
+	}
+
+	/*@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main_activity_actions, menu);
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle action bar item clicks here. The action bar will
+		// automatically handle clicks on the Home/Up button, so long
+		// as you specify a parent activity in AndroidManifest.xml.
+		int id = item.getItemId();
+		if (id == R.id.action_settings) {
+			return true;
+		}
+		return super.onOptionsItemSelected(item);
+	}
+
+	@Override
+	public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+		if (buttonView == mTbLock) {
+			if (isChecked) {
+				mHomeKeyLocker.lock(this);
+			} else {
+				mHomeKeyLocker.unlock();
+			}
+		}
+	}
+
+	@Override
+	protected void onDestroy() {
+		super.onDestroy();
+		mHomeKeyLocker.unlock();
+		mHomeKeyLocker = null;
+	}
+*/
+
 
 	@Override
 	protected void onResume() {
 		super.onResume();
-		alarmsManger = new AlarmsManager(this);
+		//alarmsManger = new AlarmsManager(this);
 	}
 
 	@Override
 	protected void onPause() {
 		super.onPause();
-		alarmsManger.close();
-		finish();
+		//alarmsManger.close();
+		//finish();
+        SharedPreferences prefs = getSharedPreferences("X", MODE_PRIVATE);
+        Editor editor = prefs.edit();
+        editor.putString("lastActivity", getClass().getName());
+        editor.commit();
+
+	}
+	@Override
+	protected void onStop() {
+
+		super.onStop();
 	}
 }

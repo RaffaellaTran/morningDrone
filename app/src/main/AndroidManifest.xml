@@ -33,13 +33,31 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="net.raffy.mp3alarmclock.view.activity.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"
+                    />
+
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+  <!--     <activity
+            android:name=".SingleTaskActivity"
+            android:label="singleTask launchMode"
+            android:launchMode="singleTask">
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+            <category android:name="android.intent.category.HOME" />
+            <category android:name="android.intent.category.DEFAULT" />
+
+        </intent-filter>
+    </activity>
+  -->
         <activity
             android:name="net.raffy.mp3alarmclock.view.activity.RingingAlarmActivity"
             android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity"
@@ -47,6 +65,12 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+           <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            -->
         </activity>
         <activity
             android:name="net.raffy.mp3alarmclock.view.activity.AboutActivity"
@@ -85,6 +109,13 @@
             android:launchMode="singleInstance"
             android:taskAffinity=""
             android:excludeFromRecents="true" />
+        <activity
+            android:name="net.raffy.mp3alarmclock.view.activity.DispatcherActivity"
+            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+        </activity>
     </application>
 
 

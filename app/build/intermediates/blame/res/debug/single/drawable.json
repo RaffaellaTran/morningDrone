@@ -1,230 +1,230 @@
 [
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_snooze.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_btn_snooze.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_edit_text_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_edit_text_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_yellow_nobg_ds.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_launcher_yellow_nobg_ds.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_su.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_su.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_action_onoff_pressed.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_action_onoff_pressed.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_delete_alarm.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_delete_alarm.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_search_dropdown_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_ic_clear_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_action_play_test.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_action_play_test.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/rect_btn.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/rect_btn.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_alarm_on_off.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_alarm_on_off.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_item_background_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_spinner_ab_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_sa_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_sa_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_su_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_su_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_th.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_th.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_fr_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_fr_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_su.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_su.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_ic_clear.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_action_btn_snooze_not_pressed.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_action_btn_snooze_not_pressed.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_search_dropdown_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_scrubber_control_selector_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_scrubber_control_selector_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/rect_btn.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/rect_btn.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_fr.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_fr.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_fr.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_fr.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_mo.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_mo.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_item_background_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_item_background_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_main.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_btn_main.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_list_selector_background_transition_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_mo_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_mo_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_action_btn_snooze_pressed.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_action_btn_snooze_pressed.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_menu_settings.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_menu_settings.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_tu_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_tu_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/btn_snooze_sun_not_pressed.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/btn_snooze_sun_not_pressed.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_spinner_ab_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_mo.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_mo.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_textfield_searchview_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_music.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_btn_music.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_list_selector_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_action_btn_snooze_pressed.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_action_btn_snooze_pressed.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_main.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_btn_main.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_gray_bg_ds.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_launcher_gray_bg_ds.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_tu.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_tu.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_search_dropdown_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_spinner_ab_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_gray_bg_ds.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_launcher_gray_bg_ds.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_we_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_we_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_list_selector_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_list_selector_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/btn_main_pressed.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/btn_main_pressed.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_v1.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_launcher_v1.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_yellow_nobg_ds.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_launcher_yellow_nobg_ds.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_actionbar_btn.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_actionbar_btn.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_spinner_ab_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_we.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_we.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_scrubber_control_selector_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_scrubber_control_selector_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_actionbar_btn.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_actionbar_btn.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_about.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_launcher_about.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_action_btn_snooze_not_pressed.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_action_btn_snooze_not_pressed.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_scrubber_progress_horizontal_holo_light.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/appthemeyellow_scrubber_progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_th_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_th_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_tab_indicator_ab_holo.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_edit_text_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_edit_text_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_we.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_we.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_menu_settings.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_menu_settings.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_delete_alarm.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_delete_alarm.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_alarm_on_off.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_alarm_on_off.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_textfield_searchview_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_sa.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_sa.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_tab_indicator_ab_holo.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_tu.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_tu.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_we_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_we_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_sa_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_sa_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_su_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_su_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_fr_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_fr_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/appthemeyellow_scrubber_progress_horizontal_holo_light.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/appthemeyellow_scrubber_progress_horizontal_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_snooze.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_btn_snooze.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/btn_main_pressed_test.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/btn_main_pressed_test.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/circle_btn.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/circle_btn.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_ic_clear.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_btn_music.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_btn_music.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_th.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_th.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_v1.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_launcher_v1.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/ic_launcher_about.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/ic_launcher_about.png"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/selector_th_row.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/selector_th_row.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_tu_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_tu_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_action_onoff_pressed.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_action_onoff_pressed.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/btn_main_pressed.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/btn_main_pressed.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/btn_main_pressed_test.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/btn_main_pressed_test.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_sa.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_sa.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/btn_snooze_sun_not_pressed.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/btn_snooze_sun_not_pressed.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_ic_clear_holo_light.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable/abc_search_dropdown_dark.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/circle_btn.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/circle_btn.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable/selector_mo_row.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable/selector_mo_row.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable/ic_action_play_test.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable/ic_action_play_test.png"
     }
 ]
