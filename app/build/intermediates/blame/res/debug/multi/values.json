@@ -1711,8 +1711,27 @@
                     "startLine": 198,
                     "startColumn": 4,
                     "startOffset": 14676,
+                    "endColumn": 66,
+                    "endOffset": 14738
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5261,
+                        "endColumn": 66,
+                        "endOffset": 5323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14743,
                     "endColumn": 47,
-                    "endOffset": 14719
+                    "endOffset": 14786
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1720,30 +1739,11 @@
             },
             {
                 "to": {
-                    "startLine": 199,
-                    "startColumn": 4,
-                    "startOffset": 14724,
-                    "endColumn": 49,
-                    "endOffset": 14769
-                },
-                "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 112,
-                        "startColumn": 4,
-                        "startOffset": 5210,
-                        "endColumn": 49,
-                        "endOffset": 5255
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 14774,
-                    "endColumn": 47,
-                    "endOffset": 14817
+                    "startOffset": 14791,
+                    "endColumn": 49,
+                    "endOffset": 14836
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1753,9 +1753,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 14822,
-                    "endColumn": 49,
-                    "endOffset": 14867
+                    "startOffset": 14841,
+                    "endColumn": 47,
+                    "endOffset": 14884
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1765,9 +1765,9 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 14872,
-                    "endColumn": 54,
-                    "endOffset": 14922
+                    "startOffset": 14889,
+                    "endColumn": 49,
+                    "endOffset": 14934
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1777,9 +1777,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 14927,
-                    "endColumn": 48,
-                    "endOffset": 14971
+                    "startOffset": 14939,
+                    "endColumn": 54,
+                    "endOffset": 14989
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1789,9 +1789,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 14976,
-                    "endColumn": 51,
-                    "endOffset": 15023
+                    "startOffset": 14994,
+                    "endColumn": 48,
+                    "endOffset": 15038
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1801,9 +1801,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15028,
-                    "endColumn": 47,
-                    "endOffset": 15071
+                    "startOffset": 15043,
+                    "endColumn": 51,
+                    "endOffset": 15090
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1813,9 +1813,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15076,
-                    "endColumn": 41,
-                    "endOffset": 15113
+                    "startOffset": 15095,
+                    "endColumn": 47,
+                    "endOffset": 15138
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1825,9 +1825,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15118,
-                    "endColumn": 39,
-                    "endOffset": 15153
+                    "startOffset": 15143,
+                    "endColumn": 41,
+                    "endOffset": 15180
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1837,9 +1837,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 15158,
-                    "endColumn": 38,
-                    "endOffset": 15192
+                    "startOffset": 15185,
+                    "endColumn": 39,
+                    "endOffset": 15220
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1849,21 +1849,28 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15197,
-                    "endColumn": 40,
-                    "endOffset": 15233
+                    "startOffset": 15225,
+                    "endColumn": 47,
+                    "endOffset": 15268
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5529,
+                        "endColumn": 47,
+                        "endOffset": 5572
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15238,
-                    "endColumn": 65,
-                    "endOffset": 15299
+                    "startOffset": 15273,
+                    "endColumn": 38,
+                    "endOffset": 15307
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1873,9 +1880,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15304,
-                    "endColumn": 41,
-                    "endOffset": 15341
+                    "startOffset": 15312,
+                    "endColumn": 40,
+                    "endOffset": 15348
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1885,9 +1892,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15346,
-                    "endColumn": 47,
-                    "endOffset": 15389
+                    "startOffset": 15353,
+                    "endColumn": 65,
+                    "endOffset": 15414
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1897,9 +1904,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15394,
-                    "endColumn": 49,
-                    "endOffset": 15439
+                    "startOffset": 15419,
+                    "endColumn": 41,
+                    "endOffset": 15456
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1909,9 +1916,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15444,
-                    "endColumn": 87,
-                    "endOffset": 15527
+                    "startOffset": 15461,
+                    "endColumn": 47,
+                    "endOffset": 15504
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1921,9 +1928,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15532,
-                    "endColumn": 83,
-                    "endOffset": 15611
+                    "startOffset": 15509,
+                    "endColumn": 49,
+                    "endOffset": 15554
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1933,9 +1940,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 15616,
-                    "endColumn": 116,
-                    "endOffset": 15728
+                    "startOffset": 15559,
+                    "endColumn": 87,
+                    "endOffset": 15642
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1945,9 +1952,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 15733,
-                    "endColumn": 43,
-                    "endOffset": 15772
+                    "startOffset": 15647,
+                    "endColumn": 83,
+                    "endOffset": 15726
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1957,9 +1964,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 15777,
-                    "endColumn": 49,
-                    "endOffset": 15822
+                    "startOffset": 15731,
+                    "endColumn": 116,
+                    "endOffset": 15843
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1969,21 +1976,28 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 15827,
-                    "endColumn": 72,
-                    "endOffset": 15895
+                    "startOffset": 15848,
+                    "endColumn": 53,
+                    "endOffset": 15897
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5577,
+                        "endColumn": 53,
+                        "endOffset": 5626
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 15900,
-                    "endColumn": 37,
-                    "endOffset": 15933
+                    "startOffset": 15902,
+                    "endColumn": 43,
+                    "endOffset": 15941
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -1993,9 +2007,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 15938,
-                    "endColumn": 42,
-                    "endOffset": 15976
+                    "startOffset": 15946,
+                    "endColumn": 49,
+                    "endOffset": 15991
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2005,9 +2019,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 15981,
-                    "endColumn": 43,
-                    "endOffset": 16020
+                    "startOffset": 15996,
+                    "endColumn": 72,
+                    "endOffset": 16064
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2017,9 +2031,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16025,
-                    "endColumn": 42,
-                    "endOffset": 16063
+                    "startOffset": 16069,
+                    "endColumn": 37,
+                    "endOffset": 16102
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2029,9 +2043,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 16068,
-                    "endColumn": 43,
-                    "endOffset": 16107
+                    "startOffset": 16107,
+                    "endColumn": 42,
+                    "endOffset": 16145
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2041,9 +2055,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16112,
-                    "endColumn": 44,
-                    "endOffset": 16152
+                    "startOffset": 16150,
+                    "endColumn": 43,
+                    "endOffset": 16189
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2053,9 +2067,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16157,
-                    "endColumn": 44,
-                    "endOffset": 16197
+                    "startOffset": 16194,
+                    "endColumn": 42,
+                    "endOffset": 16232
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2065,9 +2079,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16202,
-                    "endColumn": 42,
-                    "endOffset": 16240
+                    "startOffset": 16237,
+                    "endColumn": 43,
+                    "endOffset": 16276
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2077,9 +2091,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16245,
+                    "startOffset": 16281,
                     "endColumn": 44,
-                    "endOffset": 16285
+                    "endOffset": 16321
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2089,9 +2103,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 16290,
+                    "startOffset": 16326,
                     "endColumn": 44,
-                    "endOffset": 16330
+                    "endOffset": 16366
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2101,9 +2115,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 16335,
-                    "endColumn": 44,
-                    "endOffset": 16375
+                    "startOffset": 16371,
+                    "endColumn": 42,
+                    "endOffset": 16409
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2113,9 +2127,9 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 16380,
-                    "endColumn": 43,
-                    "endOffset": 16419
+                    "startOffset": 16414,
+                    "endColumn": 44,
+                    "endOffset": 16454
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2125,9 +2139,9 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 16424,
+                    "startOffset": 16459,
                     "endColumn": 44,
-                    "endOffset": 16464
+                    "endOffset": 16499
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2137,9 +2151,9 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 16469,
-                    "endColumn": 45,
-                    "endOffset": 16510
+                    "startOffset": 16504,
+                    "endColumn": 44,
+                    "endOffset": 16544
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2149,9 +2163,9 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 16515,
+                    "startOffset": 16549,
                     "endColumn": 43,
-                    "endOffset": 16554
+                    "endOffset": 16588
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2161,9 +2175,9 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 16559,
-                    "endColumn": 46,
-                    "endOffset": 16601
+                    "startOffset": 16593,
+                    "endColumn": 44,
+                    "endOffset": 16633
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2173,9 +2187,9 @@
                 "to": {
                     "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 16606,
-                    "endColumn": 37,
-                    "endOffset": 16639
+                    "startOffset": 16638,
+                    "endColumn": 45,
+                    "endOffset": 16679
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2185,9 +2199,9 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 16644,
-                    "endColumn": 79,
-                    "endOffset": 16719
+                    "startOffset": 16684,
+                    "endColumn": 43,
+                    "endOffset": 16723
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2197,21 +2211,28 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 16724,
-                    "endColumn": 39,
-                    "endOffset": 16759
+                    "startOffset": 16728,
+                    "endColumn": 82,
+                    "endOffset": 16806
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5689,
+                        "endColumn": 82,
+                        "endOffset": 5767
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 16764,
-                    "endColumn": 47,
-                    "endOffset": 16807
+                    "startOffset": 16811,
+                    "endColumn": 46,
+                    "endOffset": 16853
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2221,9 +2242,9 @@
                 "to": {
                     "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 16812,
-                    "endColumn": 47,
-                    "endOffset": 16855
+                    "startOffset": 16858,
+                    "endColumn": 37,
+                    "endOffset": 16891
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2233,9 +2254,9 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 16860,
-                    "endColumn": 40,
-                    "endOffset": 16896
+                    "startOffset": 16896,
+                    "endColumn": 79,
+                    "endOffset": 16971
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2245,9 +2266,9 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 16901,
-                    "endColumn": 42,
-                    "endOffset": 16939
+                    "startOffset": 16976,
+                    "endColumn": 39,
+                    "endOffset": 17011
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2257,9 +2278,9 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 16944,
-                    "endColumn": 45,
-                    "endOffset": 16985
+                    "startOffset": 17016,
+                    "endColumn": 47,
+                    "endOffset": 17059
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2269,9 +2290,9 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 16990,
-                    "endColumn": 55,
-                    "endOffset": 17041
+                    "startOffset": 17064,
+                    "endColumn": 47,
+                    "endOffset": 17107
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2281,9 +2302,9 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 17046,
-                    "endColumn": 39,
-                    "endOffset": 17081
+                    "startOffset": 17112,
+                    "endColumn": 40,
+                    "endOffset": 17148
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2293,9 +2314,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 17086,
-                    "endColumn": 49,
-                    "endOffset": 17131
+                    "startOffset": 17153,
+                    "endColumn": 42,
+                    "endOffset": 17191
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2305,9 +2326,9 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 17136,
-                    "endColumn": 41,
-                    "endOffset": 17173
+                    "startOffset": 17196,
+                    "endColumn": 45,
+                    "endOffset": 17237
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2317,9 +2338,9 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 17178,
-                    "endColumn": 44,
-                    "endOffset": 17218
+                    "startOffset": 17242,
+                    "endColumn": 55,
+                    "endOffset": 17293
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2329,9 +2350,9 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 17223,
-                    "endColumn": 45,
-                    "endOffset": 17264
+                    "startOffset": 17298,
+                    "endColumn": 39,
+                    "endOffset": 17333
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2341,93 +2362,142 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 17269,
-                    "endColumn": 46,
-                    "endOffset": 17311
+                    "startOffset": 17338,
+                    "endColumn": 44,
+                    "endOffset": 17378
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 5328,
+                        "endColumn": 44,
+                        "endOffset": 5368
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 17316,
-                    "endColumn": 39,
-                    "endOffset": 17351
+                    "startOffset": 17383,
+                    "endColumn": 64,
+                    "endOffset": 17443
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5373,
+                        "endColumn": 64,
+                        "endOffset": 5433
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 17356,
-                    "endColumn": 43,
-                    "endOffset": 17395
+                    "startOffset": 17448,
+                    "endColumn": 46,
+                    "endOffset": 17490
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5438,
+                        "endColumn": 46,
+                        "endOffset": 5480
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 17400,
-                    "endColumn": 52,
-                    "endOffset": 17448
+                    "startOffset": 17495,
+                    "endColumn": 48,
+                    "endOffset": 17539
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5990,
+                        "endColumn": 48,
+                        "endOffset": 6034
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 17453,
-                    "endColumn": 49,
-                    "endOffset": 17498
+                    "startOffset": 17544,
+                    "endColumn": 54,
+                    "endOffset": 17594
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 6039,
+                        "endColumn": 54,
+                        "endOffset": 6089
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 17503,
-                    "endColumn": 68,
-                    "endOffset": 17567
+                    "startOffset": 17599,
+                    "endColumn": 42,
+                    "endOffset": 17637
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 6094,
+                        "endColumn": 42,
+                        "endOffset": 6132
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 17572,
-                    "endColumn": 33,
-                    "endOffset": 17601
+                    "startOffset": 17642,
+                    "endColumn": 42,
+                    "endOffset": 17680
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 6137,
+                        "endColumn": 42,
+                        "endOffset": 6175
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 17606,
-                    "endColumn": 40,
-                    "endOffset": 17642
+                    "startOffset": 17685,
+                    "endColumn": 49,
+                    "endOffset": 17730
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2437,9 +2507,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 17647,
-                    "endColumn": 33,
-                    "endOffset": 17676
+                    "startOffset": 17735,
+                    "endColumn": 41,
+                    "endOffset": 17772
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2449,9 +2519,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 17681,
-                    "endColumn": 41,
-                    "endOffset": 17718
+                    "startOffset": 17777,
+                    "endColumn": 44,
+                    "endOffset": 17817
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2461,9 +2531,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 17723,
-                    "endColumn": 41,
-                    "endOffset": 17760
+                    "startOffset": 17822,
+                    "endColumn": 45,
+                    "endOffset": 17863
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2473,9 +2543,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 17765,
-                    "endColumn": 43,
-                    "endOffset": 17804
+                    "startOffset": 17868,
+                    "endColumn": 46,
+                    "endOffset": 17910
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2485,9 +2555,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 17809,
-                    "endColumn": 46,
-                    "endOffset": 17851
+                    "startOffset": 17915,
+                    "endColumn": 39,
+                    "endOffset": 17950
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2497,9 +2567,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 17856,
-                    "endColumn": 54,
-                    "endOffset": 17906
+                    "startOffset": 17955,
+                    "endColumn": 43,
+                    "endOffset": 17994
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2509,9 +2579,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 17911,
-                    "endColumn": 47,
-                    "endOffset": 17954
+                    "startOffset": 17999,
+                    "endColumn": 52,
+                    "endOffset": 18047
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2521,21 +2591,28 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 17959,
-                    "endColumn": 68,
-                    "endOffset": 18023
+                    "startOffset": 18052,
+                    "endColumn": 43,
+                    "endOffset": 18091
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5485,
+                        "endColumn": 43,
+                        "endOffset": 5524
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 18028,
-                    "endColumn": 37,
-                    "endOffset": 18061
+                    "startOffset": 18096,
+                    "endColumn": 49,
+                    "endOffset": 18141
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2545,9 +2622,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 18066,
-                    "endColumn": 41,
-                    "endOffset": 18103
+                    "startOffset": 18146,
+                    "endColumn": 68,
+                    "endOffset": 18210
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2557,9 +2634,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 18108,
-                    "endColumn": 39,
-                    "endOffset": 18143
+                    "startOffset": 18215,
+                    "endColumn": 33,
+                    "endOffset": 18244
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2569,9 +2646,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 18148,
-                    "endColumn": 39,
-                    "endOffset": 18183
+                    "startOffset": 18249,
+                    "endColumn": 40,
+                    "endOffset": 18285
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2581,9 +2658,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 18188,
-                    "endColumn": 57,
-                    "endOffset": 18241
+                    "startOffset": 18290,
+                    "endColumn": 33,
+                    "endOffset": 18319
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2593,9 +2670,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 18246,
-                    "endColumn": 67,
-                    "endOffset": 18309
+                    "startOffset": 18324,
+                    "endColumn": 41,
+                    "endOffset": 18361
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2605,9 +2682,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 18314,
+                    "startOffset": 18366,
                     "endColumn": 41,
-                    "endOffset": 18351
+                    "endOffset": 18403
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2617,9 +2694,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 18356,
-                    "endColumn": 107,
-                    "endOffset": 18459
+                    "startOffset": 18408,
+                    "endColumn": 43,
+                    "endOffset": 18447
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2629,9 +2706,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 18464,
-                    "endColumn": 57,
-                    "endOffset": 18517
+                    "startOffset": 18452,
+                    "endColumn": 46,
+                    "endOffset": 18494
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2641,9 +2718,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 18522,
-                    "endColumn": 40,
-                    "endOffset": 18558
+                    "startOffset": 18499,
+                    "endColumn": 54,
+                    "endOffset": 18549
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2653,9 +2730,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 18563,
-                    "endColumn": 62,
-                    "endOffset": 18621
+                    "startOffset": 18554,
+                    "endColumn": 47,
+                    "endOffset": 18597
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2665,9 +2742,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 18626,
-                    "endColumn": 42,
-                    "endOffset": 18664
+                    "startOffset": 18602,
+                    "endColumn": 68,
+                    "endOffset": 18666
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2677,9 +2754,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 18669,
-                    "endColumn": 45,
-                    "endOffset": 18710
+                    "startOffset": 18671,
+                    "endColumn": 37,
+                    "endOffset": 18704
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2689,9 +2766,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 18715,
-                    "endColumn": 45,
-                    "endOffset": 18756
+                    "startOffset": 18709,
+                    "endColumn": 41,
+                    "endOffset": 18746
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
@@ -2701,10 +2778,230 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 18761,
-                    "endLine": 287,
+                    "startOffset": 18751,
+                    "endColumn": 39,
+                    "endOffset": 18786
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 18791,
+                    "endColumn": 39,
+                    "endOffset": 18826
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 18831,
+                    "endColumn": 57,
+                    "endOffset": 18884
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 18889,
+                    "endColumn": 67,
+                    "endOffset": 18952
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 18957,
+                    "endColumn": 41,
+                    "endOffset": 18994
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 18999,
+                    "endColumn": 107,
+                    "endOffset": 19102
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 19107,
+                    "endColumn": 57,
+                    "endOffset": 19160
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 19165,
+                    "endColumn": 57,
+                    "endOffset": 19218
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5631,
+                        "endColumn": 57,
+                        "endOffset": 5684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 19223,
+                    "endColumn": 40,
+                    "endOffset": 19259
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 19264,
+                    "endColumn": 73,
+                    "endOffset": 19333
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5831,
+                        "endColumn": 73,
+                        "endOffset": 5900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 19338,
+                    "endColumn": 57,
+                    "endOffset": 19391
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5773,
+                        "endColumn": 57,
+                        "endOffset": 5826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 19396,
+                    "endColumn": 59,
+                    "endOffset": 19451
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5905,
+                        "endColumn": 59,
+                        "endOffset": 5960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 19456,
+                    "endColumn": 62,
+                    "endOffset": 19514
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 19519,
+                    "endColumn": 42,
+                    "endOffset": 19557
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 19562,
+                    "endColumn": 45,
+                    "endOffset": 19603
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 19608,
+                    "endColumn": 45,
+                    "endOffset": 19649
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 19654,
+                    "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 19087
+                    "endOffset": 19980
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -2712,64 +3009,12 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 19092,
-                    "endLine": 290,
-                    "endColumn": 12,
-                    "endOffset": 19287
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 291,
-                    "startColumn": 4,
-                    "startOffset": 19292,
-                    "endLine": 295,
-                    "endColumn": 12,
-                    "endOffset": 19570
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 296,
-                    "startColumn": 4,
-                    "startOffset": 19575,
-                    "endLine": 299,
-                    "endColumn": 12,
-                    "endOffset": 19778
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 300,
-                    "startColumn": 4,
-                    "startOffset": 19783,
-                    "endLine": 302,
-                    "endColumn": 12,
-                    "endOffset": 19909
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 303,
-                    "startColumn": 4,
-                    "startOffset": 19914,
+                    "startOffset": 19985,
                     "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 20171
+                    "endOffset": 20180
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2779,10 +3024,10 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 20176,
-                    "endLine": 310,
+                    "startOffset": 20185,
+                    "endLine": 311,
                     "endColumn": 12,
-                    "endOffset": 20433
+                    "endOffset": 20463
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2790,12 +3035,12 @@
             },
             {
                 "to": {
-                    "startLine": 311,
+                    "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 20438,
-                    "endLine": 314,
+                    "startOffset": 20468,
+                    "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 20711
+                    "endOffset": 20671
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2803,12 +3048,12 @@
             },
             {
                 "to": {
-                    "startLine": 315,
+                    "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 20716,
+                    "startOffset": 20676,
                     "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 20925
+                    "endOffset": 20802
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2818,22 +3063,10 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 20930,
-                    "endLine": 321,
+                    "startOffset": 20807,
+                    "endLine": 322,
                     "endColumn": 12,
-                    "endOffset": 21062
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 322,
-                    "startColumn": 4,
-                    "startOffset": 21067,
-                    "endColumn": 140,
-                    "endOffset": 21203
+                    "endOffset": 21064
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2843,45 +3076,10 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 21208,
-                    "endColumn": 140,
-                    "endOffset": 21344
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 324,
-                    "startColumn": 4,
-                    "startOffset": 21349,
-                    "endColumn": 139,
-                    "endOffset": 21484
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 325,
-                    "startColumn": 4,
-                    "startOffset": 21489,
-                    "endColumn": 133,
-                    "endOffset": 21618
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 326,
-                    "startColumn": 4,
-                    "startOffset": 21623,
-                    "endColumn": 141,
-                    "endOffset": 21760
+                    "startOffset": 21069,
+                    "endLine": 326,
+                    "endColumn": 12,
+                    "endOffset": 21326
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2891,45 +3089,10 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 21765,
-                    "endColumn": 141,
-                    "endOffset": 21902
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 328,
-                    "startColumn": 4,
-                    "startOffset": 21907,
-                    "endColumn": 127,
-                    "endOffset": 22030
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 329,
-                    "startColumn": 4,
-                    "startOffset": 22035,
-                    "endColumn": 121,
-                    "endOffset": 22152
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 330,
-                    "startColumn": 4,
-                    "startOffset": 22157,
-                    "endColumn": 127,
-                    "endOffset": 22280
+                    "startOffset": 21331,
+                    "endLine": 330,
+                    "endColumn": 12,
+                    "endOffset": 21604
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2939,45 +3102,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 22285,
-                    "endColumn": 135,
-                    "endOffset": 22416
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 332,
-                    "startColumn": 4,
-                    "startOffset": 22421,
-                    "endColumn": 151,
-                    "endOffset": 22568
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 333,
-                    "startColumn": 4,
-                    "startOffset": 22573,
-                    "endColumn": 129,
-                    "endOffset": 22698
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 334,
-                    "startColumn": 4,
-                    "startOffset": 22703,
-                    "endColumn": 145,
-                    "endOffset": 22844
+                    "startOffset": 21609,
+                    "endLine": 334,
+                    "endColumn": 12,
+                    "endOffset": 21818
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -2987,33 +3115,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 22849,
-                    "endColumn": 137,
-                    "endOffset": 22982
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 336,
-                    "startColumn": 4,
-                    "startOffset": 22987,
-                    "endColumn": 153,
-                    "endOffset": 23136
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 337,
-                    "startColumn": 4,
-                    "startOffset": 23141,
-                    "endColumn": 131,
-                    "endOffset": 23268
+                    "startOffset": 21823,
+                    "endLine": 337,
+                    "endColumn": 12,
+                    "endOffset": 21955
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3023,9 +3128,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 23273,
-                    "endColumn": 147,
-                    "endOffset": 23416
+                    "startOffset": 21960,
+                    "endColumn": 140,
+                    "endOffset": 22096
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3035,10 +3140,57 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 23421,
-                    "endLine": 343,
-                    "endColumn": 12,
-                    "endOffset": 23711
+                    "startOffset": 22101,
+                    "endColumn": 140,
+                    "endOffset": 22237
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 22242,
+                    "endColumn": 139,
+                    "endOffset": 22377
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 22382,
+                    "endColumn": 133,
+                    "endOffset": 22511
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 22516,
+                    "endColumn": 141,
+                    "endOffset": 22653
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 22658,
+                    "endColumn": 141,
+                    "endOffset": 22795
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3048,10 +3200,33 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 23716,
-                    "endLine": 346,
-                    "endColumn": 12,
-                    "endOffset": 23923
+                    "startOffset": 22800,
+                    "endColumn": 127,
+                    "endOffset": 22923
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 22928,
+                    "endColumn": 121,
+                    "endOffset": 23045
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 23050,
+                    "endColumn": 127,
+                    "endOffset": 23173
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3061,10 +3236,33 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 23928,
-                    "endLine": 349,
-                    "endColumn": 12,
-                    "endOffset": 24151
+                    "startOffset": 23178,
+                    "endColumn": 135,
+                    "endOffset": 23309
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 23314,
+                    "endColumn": 151,
+                    "endOffset": 23461
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 23466,
+                    "endColumn": 129,
+                    "endOffset": 23591
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3074,10 +3272,33 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 24156,
-                    "endLine": 352,
-                    "endColumn": 12,
-                    "endOffset": 24358
+                    "startOffset": 23596,
+                    "endColumn": 145,
+                    "endOffset": 23737
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 23742,
+                    "endColumn": 137,
+                    "endOffset": 23875
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 23880,
+                    "endColumn": 153,
+                    "endOffset": 24029
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3087,10 +3308,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 24363,
-                    "endLine": 355,
-                    "endColumn": 12,
-                    "endOffset": 24581
+                    "startOffset": 24034,
+                    "endColumn": 131,
+                    "endOffset": 24161
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3098,12 +3318,11 @@
             },
             {
                 "to": {
-                    "startLine": 356,
+                    "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 24586,
-                    "endLine": 358,
-                    "endColumn": 12,
-                    "endOffset": 24787
+                    "startOffset": 24166,
+                    "endColumn": 147,
+                    "endOffset": 24309
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3111,12 +3330,12 @@
             },
             {
                 "to": {
-                    "startLine": 359,
+                    "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 24792,
-                    "endLine": 361,
+                    "startOffset": 24314,
+                    "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 25016
+                    "endOffset": 24604
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3124,11 +3343,12 @@
             },
             {
                 "to": {
-                    "startLine": 362,
+                    "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 25021,
-                    "endColumn": 112,
-                    "endOffset": 25129
+                    "startOffset": 24609,
+                    "endLine": 362,
+                    "endColumn": 12,
+                    "endOffset": 24816
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3138,22 +3358,10 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 25134,
-                    "endColumn": 128,
-                    "endOffset": 25258
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 364,
-                    "startColumn": 4,
-                    "startOffset": 25263,
-                    "endLine": 366,
+                    "startOffset": 24821,
+                    "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 25466
+                    "endOffset": 25044
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3161,23 +3369,12 @@
             },
             {
                 "to": {
-                    "startLine": 367,
+                    "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 25471,
-                    "endColumn": 123,
-                    "endOffset": 25590
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 368,
-                    "startColumn": 4,
-                    "startOffset": 25595,
-                    "endColumn": 129,
-                    "endOffset": 25720
+                    "startOffset": 25049,
+                    "endLine": 368,
+                    "endColumn": 12,
+                    "endOffset": 25251
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3187,9 +3384,97 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 25725,
+                    "startOffset": 25256,
+                    "endLine": 371,
+                    "endColumn": 12,
+                    "endOffset": 25474
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 25479,
+                    "endLine": 374,
+                    "endColumn": 12,
+                    "endOffset": 25680
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 25685,
+                    "endLine": 377,
+                    "endColumn": 12,
+                    "endOffset": 25909
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 25914,
+                    "endColumn": 112,
+                    "endOffset": 26022
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 26027,
+                    "endColumn": 128,
+                    "endOffset": 26151
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 26156,
+                    "endLine": 382,
+                    "endColumn": 12,
+                    "endOffset": 26359
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 26364,
+                    "endColumn": 123,
+                    "endOffset": 26483
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 26488,
                     "endColumn": 129,
-                    "endOffset": 25850
+                    "endOffset": 26613
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3197,12 +3482,24 @@
             },
             {
                 "to": {
-                    "startLine": 370,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 25855,
-                    "endLine": 372,
+                    "startOffset": 26618,
+                    "endColumn": 129,
+                    "endOffset": 26743
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 26748,
+                    "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 26064
+                    "endOffset": 26957
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3210,11 +3507,11 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 26069,
+                    "startOffset": 26962,
                     "endColumn": 133,
-                    "endOffset": 26198
+                    "endOffset": 27091
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3222,12 +3519,12 @@
             },
             {
                 "to": {
-                    "startLine": 374,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 26203,
-                    "endLine": 407,
+                    "startOffset": 27096,
+                    "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 28523
+                    "endOffset": 29416
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3235,12 +3532,12 @@
             },
             {
                 "to": {
-                    "startLine": 408,
+                    "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 28528,
-                    "endLine": 411,
+                    "startOffset": 29421,
+                    "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 28810
+                    "endOffset": 29703
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3248,12 +3545,12 @@
             },
             {
                 "to": {
-                    "startLine": 412,
+                    "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 28815,
-                    "endLine": 415,
+                    "startOffset": 29708,
+                    "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 29101
+                    "endOffset": 29994
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3261,11 +3558,11 @@
             },
             {
                 "to": {
-                    "startLine": 416,
+                    "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 29106,
+                    "startOffset": 29999,
                     "endColumn": 89,
-                    "endOffset": 29191
+                    "endOffset": 30084
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3273,11 +3570,11 @@
             },
             {
                 "to": {
-                    "startLine": 417,
+                    "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 29196,
+                    "startOffset": 30089,
                     "endColumn": 103,
-                    "endOffset": 29295
+                    "endOffset": 30188
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3285,11 +3582,11 @@
             },
             {
                 "to": {
-                    "startLine": 418,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 29300,
+                    "startOffset": 30193,
                     "endColumn": 97,
-                    "endOffset": 29393
+                    "endOffset": 30286
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3297,12 +3594,12 @@
             },
             {
                 "to": {
-                    "startLine": 419,
+                    "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 29398,
-                    "endLine": 452,
+                    "startOffset": 30291,
+                    "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 31857
+                    "endOffset": 32750
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3310,12 +3607,12 @@
             },
             {
                 "to": {
-                    "startLine": 453,
+                    "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 31862,
-                    "endLine": 486,
+                    "startOffset": 32755,
+                    "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 34245
+                    "endOffset": 35138
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3323,11 +3620,11 @@
             },
             {
                 "to": {
-                    "startLine": 487,
+                    "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 34250,
+                    "startOffset": 35143,
                     "endColumn": 109,
-                    "endOffset": 34355
+                    "endOffset": 35248
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3335,11 +3632,11 @@
             },
             {
                 "to": {
-                    "startLine": 488,
+                    "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 34360,
+                    "startOffset": 35253,
                     "endColumn": 53,
-                    "endOffset": 34409
+                    "endOffset": 35302
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3347,12 +3644,12 @@
             },
             {
                 "to": {
-                    "startLine": 489,
+                    "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 34414,
-                    "endLine": 535,
+                    "startOffset": 35307,
+                    "endLine": 551,
                     "endColumn": 12,
-                    "endOffset": 37630
+                    "endOffset": 38523
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3360,12 +3657,12 @@
             },
             {
                 "to": {
-                    "startLine": 536,
+                    "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 37635,
-                    "endLine": 569,
+                    "startOffset": 38528,
+                    "endLine": 585,
                     "endColumn": 12,
-                    "endOffset": 39928
+                    "endOffset": 40821
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3373,11 +3670,11 @@
             },
             {
                 "to": {
-                    "startLine": 570,
+                    "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 39933,
+                    "startOffset": 40826,
                     "endColumn": 110,
-                    "endOffset": 40039
+                    "endOffset": 40932
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3385,11 +3682,11 @@
             },
             {
                 "to": {
-                    "startLine": 571,
+                    "startLine": 587,
                     "startColumn": 4,
-                    "startOffset": 40044,
+                    "startOffset": 40937,
                     "endColumn": 86,
-                    "endOffset": 40126
+                    "endOffset": 41019
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3397,12 +3694,12 @@
             },
             {
                 "to": {
-                    "startLine": 572,
+                    "startLine": 588,
                     "startColumn": 4,
-                    "startOffset": 40131,
-                    "endLine": 620,
+                    "startOffset": 41024,
+                    "endLine": 636,
                     "endColumn": 12,
-                    "endOffset": 43450
+                    "endOffset": 44343
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3410,12 +3707,12 @@
             },
             {
                 "to": {
-                    "startLine": 621,
+                    "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 43455,
-                    "endLine": 646,
+                    "startOffset": 44348,
+                    "endLine": 662,
                     "endColumn": 12,
-                    "endOffset": 45287
+                    "endOffset": 46180
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3423,11 +3720,11 @@
             },
             {
                 "to": {
-                    "startLine": 647,
+                    "startLine": 663,
                     "startColumn": 4,
-                    "startOffset": 45292,
+                    "startOffset": 46185,
                     "endColumn": 98,
-                    "endOffset": 45386
+                    "endOffset": 46279
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3435,11 +3732,11 @@
             },
             {
                 "to": {
-                    "startLine": 648,
+                    "startLine": 664,
                     "startColumn": 4,
-                    "startOffset": 45391,
+                    "startOffset": 46284,
                     "endColumn": 65,
-                    "endOffset": 45452
+                    "endOffset": 46345
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3447,11 +3744,11 @@
             },
             {
                 "to": {
-                    "startLine": 649,
+                    "startLine": 665,
                     "startColumn": 4,
-                    "startOffset": 45457,
+                    "startOffset": 46350,
                     "endColumn": 87,
-                    "endOffset": 45540
+                    "endOffset": 46433
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3459,11 +3756,11 @@
             },
             {
                 "to": {
-                    "startLine": 650,
+                    "startLine": 666,
                     "startColumn": 4,
-                    "startOffset": 45545,
+                    "startOffset": 46438,
                     "endColumn": 99,
-                    "endOffset": 45640
+                    "endOffset": 46533
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3471,11 +3768,11 @@
             },
             {
                 "to": {
-                    "startLine": 651,
+                    "startLine": 667,
                     "startColumn": 4,
-                    "startOffset": 45645,
+                    "startOffset": 46538,
                     "endColumn": 101,
-                    "endOffset": 45742
+                    "endOffset": 46635
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3483,11 +3780,11 @@
             },
             {
                 "to": {
-                    "startLine": 652,
+                    "startLine": 668,
                     "startColumn": 4,
-                    "startOffset": 45747,
+                    "startOffset": 46640,
                     "endColumn": 103,
-                    "endOffset": 45846
+                    "endOffset": 46739
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3495,11 +3792,11 @@
             },
             {
                 "to": {
-                    "startLine": 653,
+                    "startLine": 669,
                     "startColumn": 4,
-                    "startOffset": 45851,
+                    "startOffset": 46744,
                     "endColumn": 103,
-                    "endOffset": 45950
+                    "endOffset": 46843
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3507,11 +3804,11 @@
             },
             {
                 "to": {
-                    "startLine": 654,
+                    "startLine": 670,
                     "startColumn": 4,
-                    "startOffset": 45955,
+                    "startOffset": 46848,
                     "endColumn": 93,
-                    "endOffset": 46044
+                    "endOffset": 46937
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3519,11 +3816,11 @@
             },
             {
                 "to": {
-                    "startLine": 655,
+                    "startLine": 671,
                     "startColumn": 4,
-                    "startOffset": 46049,
+                    "startOffset": 46942,
                     "endColumn": 113,
-                    "endOffset": 46158
+                    "endOffset": 47051
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3531,11 +3828,11 @@
             },
             {
                 "to": {
-                    "startLine": 656,
+                    "startLine": 672,
                     "startColumn": 4,
-                    "startOffset": 46163,
+                    "startOffset": 47056,
                     "endColumn": 111,
-                    "endOffset": 46270
+                    "endOffset": 47163
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3543,11 +3840,11 @@
             },
             {
                 "to": {
-                    "startLine": 657,
+                    "startLine": 673,
                     "startColumn": 4,
-                    "startOffset": 46275,
+                    "startOffset": 47168,
                     "endColumn": 89,
-                    "endOffset": 46360
+                    "endOffset": 47253
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3555,36 +3852,11 @@
             },
             {
                 "to": {
-                    "startLine": 658,
+                    "startLine": 674,
                     "startColumn": 4,
-                    "startOffset": 46365,
+                    "startOffset": 47258,
                     "endColumn": 107,
-                    "endOffset": 46468
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 659,
-                    "startColumn": 4,
-                    "startOffset": 46473,
-                    "endColumn": 109,
-                    "endOffset": 46578
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 660,
-                    "startColumn": 4,
-                    "startOffset": 46583,
-                    "endLine": 674,
-                    "endColumn": 12,
-                    "endOffset": 47731
+                    "endOffset": 47361
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3594,10 +3866,9 @@
                 "to": {
                     "startLine": 675,
                     "startColumn": 4,
-                    "startOffset": 47736,
-                    "endLine": 679,
-                    "endColumn": 12,
-                    "endOffset": 48085
+                    "startOffset": 47366,
+                    "endColumn": 109,
+                    "endOffset": 47471
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3605,12 +3876,12 @@
             },
             {
                 "to": {
-                    "startLine": 680,
+                    "startLine": 676,
                     "startColumn": 4,
-                    "startOffset": 48090,
-                    "endLine": 684,
+                    "startOffset": 47476,
+                    "endLine": 690,
                     "endColumn": 12,
-                    "endOffset": 48322
+                    "endOffset": 48624
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3618,12 +3889,12 @@
             },
             {
                 "to": {
-                    "startLine": 685,
+                    "startLine": 691,
                     "startColumn": 4,
-                    "startOffset": 48327,
-                    "endLine": 693,
+                    "startOffset": 48629,
+                    "endLine": 695,
                     "endColumn": 12,
-                    "endOffset": 48796
+                    "endOffset": 48978
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3631,12 +3902,12 @@
             },
             {
                 "to": {
-                    "startLine": 694,
+                    "startLine": 696,
                     "startColumn": 4,
-                    "startOffset": 48801,
+                    "startOffset": 48983,
                     "endLine": 700,
                     "endColumn": 12,
-                    "endOffset": 49183
+                    "endOffset": 49215
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3646,10 +3917,10 @@
                 "to": {
                     "startLine": 701,
                     "startColumn": 4,
-                    "startOffset": 49188,
-                    "endLine": 710,
+                    "startOffset": 49220,
+                    "endLine": 709,
                     "endColumn": 12,
-                    "endOffset": 49769
+                    "endOffset": 49689
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3657,11 +3928,37 @@
             },
             {
                 "to": {
-                    "startLine": 711,
+                    "startLine": 710,
                     "startColumn": 4,
-                    "startOffset": 49774,
+                    "startOffset": 49694,
+                    "endLine": 716,
+                    "endColumn": 12,
+                    "endOffset": 50076
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 717,
+                    "startColumn": 4,
+                    "startOffset": 50081,
+                    "endLine": 726,
+                    "endColumn": 12,
+                    "endOffset": 50662
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 50667,
                     "endColumn": 108,
-                    "endOffset": 49878
+                    "endOffset": 50771
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3669,12 +3966,12 @@
             },
             {
                 "to": {
-                    "startLine": 712,
+                    "startLine": 728,
                     "startColumn": 4,
-                    "startOffset": 49883,
-                    "endLine": 714,
+                    "startOffset": 50776,
+                    "endLine": 730,
                     "endColumn": 12,
-                    "endOffset": 50090
+                    "endOffset": 50983
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3682,12 +3979,12 @@
             },
             {
                 "to": {
-                    "startLine": 715,
+                    "startLine": 731,
                     "startColumn": 4,
-                    "startOffset": 50095,
-                    "endLine": 721,
+                    "startOffset": 50988,
+                    "endLine": 737,
                     "endColumn": 12,
-                    "endOffset": 50566
+                    "endOffset": 51459
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3695,12 +3992,12 @@
             },
             {
                 "to": {
-                    "startLine": 722,
+                    "startLine": 738,
                     "startColumn": 4,
-                    "startOffset": 50571,
-                    "endLine": 728,
+                    "startOffset": 51464,
+                    "endLine": 744,
                     "endColumn": 12,
-                    "endOffset": 50940
+                    "endOffset": 51833
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3708,51 +4005,12 @@
             },
             {
                 "to": {
-                    "startLine": 729,
+                    "startLine": 745,
                     "startColumn": 4,
-                    "startOffset": 50945,
-                    "endLine": 733,
-                    "endColumn": 12,
-                    "endOffset": 51319
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 734,
-                    "startColumn": 4,
-                    "startOffset": 51324,
-                    "endLine": 739,
-                    "endColumn": 12,
-                    "endOffset": 51672
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 740,
-                    "startColumn": 4,
-                    "startOffset": 51677,
-                    "endLine": 746,
-                    "endColumn": 12,
-                    "endOffset": 52132
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 747,
-                    "startColumn": 4,
-                    "startOffset": 52137,
+                    "startOffset": 51838,
                     "endLine": 749,
                     "endColumn": 12,
-                    "endOffset": 52324
+                    "endOffset": 52212
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3762,10 +4020,10 @@
                 "to": {
                     "startLine": 750,
                     "startColumn": 4,
-                    "startOffset": 52329,
-                    "endLine": 753,
+                    "startOffset": 52217,
+                    "endLine": 755,
                     "endColumn": 12,
-                    "endOffset": 52583
+                    "endOffset": 52565
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3773,11 +4031,50 @@
             },
             {
                 "to": {
-                    "startLine": 754,
+                    "startLine": 756,
                     "startColumn": 4,
-                    "startOffset": 52588,
+                    "startOffset": 52570,
+                    "endLine": 762,
+                    "endColumn": 12,
+                    "endOffset": 53025
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 763,
+                    "startColumn": 4,
+                    "startOffset": 53030,
+                    "endLine": 765,
+                    "endColumn": 12,
+                    "endOffset": 53217
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 766,
+                    "startColumn": 4,
+                    "startOffset": 53222,
+                    "endLine": 769,
+                    "endColumn": 12,
+                    "endOffset": 53476
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 770,
+                    "startColumn": 4,
+                    "startOffset": 53481,
                     "endColumn": 105,
-                    "endOffset": 52689
+                    "endOffset": 53582
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3785,85 +4082,12 @@
             },
             {
                 "to": {
-                    "startLine": 755,
+                    "startLine": 771,
                     "startColumn": 4,
-                    "startOffset": 52694,
-                    "endLine": 760,
+                    "startOffset": 53587,
+                    "endLine": 776,
                     "endColumn": 12,
-                    "endOffset": 53133
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 761,
-                    "startColumn": 4,
-                    "startOffset": 53138,
-                    "endColumn": 111,
-                    "endOffset": 53245
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 762,
-                    "startColumn": 4,
-                    "startOffset": 53250,
-                    "endLine": 772,
-                    "endColumn": 12,
-                    "endOffset": 53944
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 773,
-                    "startColumn": 4,
-                    "startOffset": 53949,
-                    "endColumn": 109,
-                    "endOffset": 54054
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 774,
-                    "startColumn": 4,
-                    "startOffset": 54059,
-                    "endColumn": 99,
-                    "endOffset": 54154
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 775,
-                    "startColumn": 4,
-                    "startOffset": 54159,
-                    "endColumn": 111,
-                    "endOffset": 54266
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 776,
-                    "startColumn": 4,
-                    "startOffset": 54271,
-                    "endColumn": 127,
-                    "endOffset": 54394
+                    "endOffset": 54026
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3873,9 +4097,9 @@
                 "to": {
                     "startLine": 777,
                     "startColumn": 4,
-                    "startOffset": 54399,
-                    "endColumn": 113,
-                    "endOffset": 54508
+                    "startOffset": 54031,
+                    "endColumn": 111,
+                    "endOffset": 54138
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -3885,129 +4109,10 @@
                 "to": {
                     "startLine": 778,
                     "startColumn": 4,
-                    "startOffset": 54513,
-                    "endColumn": 129,
-                    "endOffset": 54638
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 779,
-                    "startColumn": 4,
-                    "startOffset": 54643,
-                    "endColumn": 115,
-                    "endOffset": 54754
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 780,
-                    "startColumn": 4,
-                    "startOffset": 54759,
-                    "endColumn": 131,
-                    "endOffset": 54886
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 781,
-                    "startColumn": 4,
-                    "startOffset": 54891,
-                    "endColumn": 115,
-                    "endOffset": 55002
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 782,
-                    "startColumn": 4,
-                    "startOffset": 55007,
-                    "endColumn": 131,
-                    "endOffset": 55134
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 783,
-                    "startColumn": 4,
-                    "startOffset": 55139,
-                    "endColumn": 105,
-                    "endOffset": 55240
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 784,
-                    "startColumn": 4,
-                    "startOffset": 55245,
-                    "endColumn": 125,
-                    "endOffset": 55366
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 785,
-                    "startColumn": 4,
-                    "startOffset": 55371,
-                    "endColumn": 123,
-                    "endOffset": 55490
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 786,
-                    "startColumn": 4,
-                    "startOffset": 55495,
-                    "endColumn": 117,
-                    "endOffset": 55608
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 787,
-                    "startColumn": 4,
-                    "startOffset": 55613,
-                    "endColumn": 119,
-                    "endOffset": 55728
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 788,
-                    "startColumn": 4,
-                    "startOffset": 55733,
-                    "endColumn": 121,
-                    "endOffset": 55850
+                    "startOffset": 54143,
+                    "endLine": 788,
+                    "endColumn": 12,
+                    "endOffset": 54837
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4017,10 +4122,105 @@
                 "to": {
                     "startLine": 789,
                     "startColumn": 4,
-                    "startOffset": 55855,
-                    "endLine": 797,
-                    "endColumn": 12,
-                    "endOffset": 56603
+                    "startOffset": 54842,
+                    "endColumn": 109,
+                    "endOffset": 54947
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 790,
+                    "startColumn": 4,
+                    "startOffset": 54952,
+                    "endColumn": 99,
+                    "endOffset": 55047
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 791,
+                    "startColumn": 4,
+                    "startOffset": 55052,
+                    "endColumn": 111,
+                    "endOffset": 55159
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 792,
+                    "startColumn": 4,
+                    "startOffset": 55164,
+                    "endColumn": 127,
+                    "endOffset": 55287
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 793,
+                    "startColumn": 4,
+                    "startOffset": 55292,
+                    "endColumn": 113,
+                    "endOffset": 55401
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 794,
+                    "startColumn": 4,
+                    "startOffset": 55406,
+                    "endColumn": 129,
+                    "endOffset": 55531
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 795,
+                    "startColumn": 4,
+                    "startOffset": 55536,
+                    "endColumn": 115,
+                    "endOffset": 55647
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 796,
+                    "startColumn": 4,
+                    "startOffset": 55652,
+                    "endColumn": 131,
+                    "endOffset": 55779
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 797,
+                    "startColumn": 4,
+                    "startOffset": 55784,
+                    "endColumn": 115,
+                    "endOffset": 55895
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4030,10 +4230,57 @@
                 "to": {
                     "startLine": 798,
                     "startColumn": 4,
-                    "startOffset": 56608,
-                    "endLine": 802,
-                    "endColumn": 12,
-                    "endOffset": 56972
+                    "startOffset": 55900,
+                    "endColumn": 131,
+                    "endOffset": 56027
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 799,
+                    "startColumn": 4,
+                    "startOffset": 56032,
+                    "endColumn": 105,
+                    "endOffset": 56133
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 800,
+                    "startColumn": 4,
+                    "startOffset": 56138,
+                    "endColumn": 125,
+                    "endOffset": 56259
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 801,
+                    "startColumn": 4,
+                    "startOffset": 56264,
+                    "endColumn": 123,
+                    "endOffset": 56383
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 802,
+                    "startColumn": 4,
+                    "startOffset": 56388,
+                    "endColumn": 117,
+                    "endOffset": 56501
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4043,10 +4290,34 @@
                 "to": {
                     "startLine": 803,
                     "startColumn": 4,
-                    "startOffset": 56977,
-                    "endLine": 808,
+                    "startOffset": 56506,
+                    "endColumn": 119,
+                    "endOffset": 56621
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 804,
+                    "startColumn": 4,
+                    "startOffset": 56626,
+                    "endColumn": 121,
+                    "endOffset": 56743
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 805,
+                    "startColumn": 4,
+                    "startOffset": 56748,
+                    "endLine": 813,
                     "endColumn": 12,
-                    "endOffset": 57528
+                    "endOffset": 57496
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4054,96 +4325,12 @@
             },
             {
                 "to": {
-                    "startLine": 809,
+                    "startLine": 814,
                     "startColumn": 4,
-                    "startOffset": 57533,
-                    "endColumn": 112,
-                    "endOffset": 57641
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 810,
-                    "startColumn": 4,
-                    "startOffset": 57646,
-                    "endColumn": 126,
-                    "endOffset": 57768
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 811,
-                    "startColumn": 4,
-                    "startOffset": 57773,
-                    "endColumn": 114,
-                    "endOffset": 57883
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 812,
-                    "startColumn": 4,
-                    "startOffset": 57888,
-                    "endLine": 814,
+                    "startOffset": 57501,
+                    "endLine": 818,
                     "endColumn": 12,
-                    "endOffset": 58119
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 815,
-                    "startColumn": 4,
-                    "startOffset": 58124,
-                    "endColumn": 114,
-                    "endOffset": 58234
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 816,
-                    "startColumn": 4,
-                    "startOffset": 58239,
-                    "endColumn": 128,
-                    "endOffset": 58363
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 817,
-                    "startColumn": 4,
-                    "startOffset": 58368,
-                    "endColumn": 104,
-                    "endOffset": 58468
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 818,
-                    "startColumn": 4,
-                    "startOffset": 58473,
-                    "endColumn": 120,
-                    "endOffset": 58589
+                    "endOffset": 57865
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4153,10 +4340,10 @@
                 "to": {
                     "startLine": 819,
                     "startColumn": 4,
-                    "startOffset": 58594,
-                    "endLine": 821,
+                    "startOffset": 57870,
+                    "endLine": 824,
                     "endColumn": 12,
-                    "endOffset": 58814
+                    "endOffset": 58421
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4164,12 +4351,11 @@
             },
             {
                 "to": {
-                    "startLine": 822,
+                    "startLine": 825,
                     "startColumn": 4,
-                    "startOffset": 58819,
-                    "endLine": 825,
-                    "endColumn": 12,
-                    "endOffset": 59179
+                    "startOffset": 58426,
+                    "endColumn": 112,
+                    "endOffset": 58534
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4179,10 +4365,9 @@
                 "to": {
                     "startLine": 826,
                     "startColumn": 4,
-                    "startOffset": 59184,
-                    "endLine": 828,
-                    "endColumn": 12,
-                    "endOffset": 59396
+                    "startOffset": 58539,
+                    "endColumn": 126,
+                    "endOffset": 58661
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4190,12 +4375,60 @@
             },
             {
                 "to": {
-                    "startLine": 829,
+                    "startLine": 827,
                     "startColumn": 4,
-                    "startOffset": 59401,
-                    "endLine": 833,
+                    "startOffset": 58666,
+                    "endColumn": 114,
+                    "endOffset": 58776
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 58781,
+                    "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 59783
+                    "endOffset": 59012
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 59017,
+                    "endColumn": 114,
+                    "endOffset": 59127
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 59132,
+                    "endColumn": 128,
+                    "endOffset": 59256
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 833,
+                    "startColumn": 4,
+                    "startOffset": 59261,
+                    "endColumn": 104,
+                    "endOffset": 59361
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4205,9 +4438,9 @@
                 "to": {
                     "startLine": 834,
                     "startColumn": 4,
-                    "startOffset": 59788,
+                    "startOffset": 59366,
                     "endColumn": 120,
-                    "endOffset": 59904
+                    "endOffset": 59482
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4217,10 +4450,23 @@
                 "to": {
                     "startLine": 835,
                     "startColumn": 4,
-                    "startOffset": 59909,
+                    "startOffset": 59487,
+                    "endLine": 837,
+                    "endColumn": 12,
+                    "endOffset": 59707
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 838,
+                    "startColumn": 4,
+                    "startOffset": 59712,
                     "endLine": 841,
                     "endColumn": 12,
-                    "endOffset": 60372
+                    "endOffset": 60072
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4230,10 +4476,10 @@
                 "to": {
                     "startLine": 842,
                     "startColumn": 4,
-                    "startOffset": 60377,
+                    "startOffset": 60077,
                     "endLine": 844,
                     "endColumn": 12,
-                    "endOffset": 60571
+                    "endOffset": 60289
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4243,9 +4489,10 @@
                 "to": {
                     "startLine": 845,
                     "startColumn": 4,
-                    "startOffset": 60576,
-                    "endColumn": 117,
-                    "endOffset": 60689
+                    "startOffset": 60294,
+                    "endLine": 849,
+                    "endColumn": 12,
+                    "endOffset": 60676
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4253,12 +4500,11 @@
             },
             {
                 "to": {
-                    "startLine": 846,
+                    "startLine": 850,
                     "startColumn": 4,
-                    "startOffset": 60694,
-                    "endLine": 850,
-                    "endColumn": 12,
-                    "endOffset": 61068
+                    "startOffset": 60681,
+                    "endColumn": 120,
+                    "endOffset": 60797
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4268,81 +4514,10 @@
                 "to": {
                     "startLine": 851,
                     "startColumn": 4,
-                    "startOffset": 61073,
-                    "endColumn": 121,
-                    "endOffset": 61190
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 852,
-                    "startColumn": 4,
-                    "startOffset": 61195,
-                    "endColumn": 111,
-                    "endOffset": 61302
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 853,
-                    "startColumn": 4,
-                    "startOffset": 61307,
-                    "endColumn": 115,
-                    "endOffset": 61418
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 854,
-                    "startColumn": 4,
-                    "startOffset": 61423,
-                    "endColumn": 99,
-                    "endOffset": 61518
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 855,
-                    "startColumn": 4,
-                    "startOffset": 61523,
-                    "endColumn": 114,
-                    "endOffset": 61633
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 856,
-                    "startColumn": 4,
-                    "startOffset": 61638,
-                    "endColumn": 99,
-                    "endOffset": 61733
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 857,
-                    "startColumn": 4,
-                    "startOffset": 61738,
-                    "endColumn": 103,
-                    "endOffset": 61837
+                    "startOffset": 60802,
+                    "endLine": 857,
+                    "endColumn": 12,
+                    "endOffset": 61265
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4352,33 +4527,10 @@
                 "to": {
                     "startLine": 858,
                     "startColumn": 4,
-                    "startOffset": 61842,
-                    "endColumn": 95,
-                    "endOffset": 61933
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 859,
-                    "startColumn": 4,
-                    "startOffset": 61938,
-                    "endColumn": 87,
-                    "endOffset": 62021
-                },
-                "from": {
-                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 860,
-                    "startColumn": 4,
-                    "startOffset": 62026,
-                    "endColumn": 91,
-                    "endOffset": 62113
+                    "startOffset": 61270,
+                    "endLine": 860,
+                    "endColumn": 12,
+                    "endOffset": 61464
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4388,9 +4540,9 @@
                 "to": {
                     "startLine": 861,
                     "startColumn": 4,
-                    "startOffset": 62118,
-                    "endColumn": 113,
-                    "endOffset": 62227
+                    "startOffset": 61469,
+                    "endColumn": 117,
+                    "endOffset": 61582
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4400,9 +4552,10 @@
                 "to": {
                     "startLine": 862,
                     "startColumn": 4,
-                    "startOffset": 62232,
-                    "endColumn": 102,
-                    "endOffset": 62330
+                    "startOffset": 61587,
+                    "endLine": 866,
+                    "endColumn": 12,
+                    "endOffset": 61961
                 },
                 "from": {
                     "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
@@ -4410,51 +4563,156 @@
             },
             {
                 "to": {
-                    "startLine": 863,
+                    "startLine": 867,
                     "startColumn": 4,
-                    "startOffset": 62335,
-                    "endLine": 866,
-                    "endColumn": 12,
-                    "endOffset": 62539
+                    "startOffset": 61966,
+                    "endColumn": 121,
+                    "endOffset": 62083
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 867,
+                    "startLine": 868,
                     "startColumn": 4,
-                    "startOffset": 62544,
-                    "endLine": 870,
-                    "endColumn": 12,
-                    "endOffset": 62769
+                    "startOffset": 62088,
+                    "endColumn": 111,
+                    "endOffset": 62195
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 869,
+                    "startColumn": 4,
+                    "startOffset": 62200,
+                    "endColumn": 115,
+                    "endOffset": 62311
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 870,
+                    "startColumn": 4,
+                    "startOffset": 62316,
+                    "endColumn": 99,
+                    "endOffset": 62411
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 871,
                     "startColumn": 4,
-                    "startOffset": 62774,
-                    "endLine": 875,
-                    "endColumn": 12,
-                    "endOffset": 62912
+                    "startOffset": 62416,
+                    "endColumn": 114,
+                    "endOffset": 62526
                 },
                 "from": {
-                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 872,
+                    "startColumn": 4,
+                    "startOffset": 62531,
+                    "endColumn": 99,
+                    "endOffset": 62626
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 873,
+                    "startColumn": 4,
+                    "startOffset": 62631,
+                    "endColumn": 103,
+                    "endOffset": 62730
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 874,
+                    "startColumn": 4,
+                    "startOffset": 62735,
+                    "endColumn": 95,
+                    "endOffset": 62826
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 875,
+                    "startColumn": 4,
+                    "startOffset": 62831,
+                    "endColumn": 87,
+                    "endOffset": 62914
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 876,
                     "startColumn": 4,
-                    "startOffset": 62917,
-                    "endLine": 885,
+                    "startOffset": 62919,
+                    "endColumn": 91,
+                    "endOffset": 63006
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 877,
+                    "startColumn": 4,
+                    "startOffset": 63011,
+                    "endColumn": 113,
+                    "endOffset": 63120
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 878,
+                    "startColumn": 4,
+                    "startOffset": 63125,
+                    "endColumn": 102,
+                    "endOffset": 63223
+                },
+                "from": {
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 879,
+                    "startColumn": 4,
+                    "startOffset": 63228,
+                    "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 63457
+                    "endOffset": 63432
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4462,12 +4720,12 @@
             },
             {
                 "to": {
-                    "startLine": 886,
+                    "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 63462,
-                    "endLine": 896,
+                    "startOffset": 63437,
+                    "endLine": 886,
                     "endColumn": 12,
-                    "endOffset": 64052
+                    "endOffset": 63662
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4475,12 +4733,12 @@
             },
             {
                 "to": {
-                    "startLine": 897,
+                    "startLine": 887,
                     "startColumn": 4,
-                    "startOffset": 64057,
-                    "endLine": 908,
+                    "startOffset": 63667,
+                    "endLine": 891,
                     "endColumn": 12,
-                    "endOffset": 64697
+                    "endOffset": 63805
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4488,12 +4746,51 @@
             },
             {
                 "to": {
-                    "startLine": 909,
+                    "startLine": 892,
                     "startColumn": 4,
-                    "startOffset": 64702,
-                    "endLine": 920,
+                    "startOffset": 63810,
+                    "endLine": 901,
+                    "endColumn": 12,
+                    "endOffset": 64350
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 902,
+                    "startColumn": 4,
+                    "startOffset": 64355,
+                    "endLine": 912,
+                    "endColumn": 12,
+                    "endOffset": 64945
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 913,
+                    "startColumn": 4,
+                    "startOffset": 64950,
+                    "endLine": 924,
+                    "endColumn": 12,
+                    "endOffset": 65590
+                },
+                "from": {
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 925,
+                    "startColumn": 4,
+                    "startOffset": 65595,
+                    "endLine": 936,
                     "endColumn": 14,
-                    "endOffset": 65293
+                    "endOffset": 66186
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4501,12 +4798,12 @@
             },
             {
                 "to": {
-                    "startLine": 921,
+                    "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 65298,
-                    "endLine": 925,
+                    "startOffset": 66191,
+                    "endLine": 941,
                     "endColumn": 12,
-                    "endOffset": 65513
+                    "endOffset": 66406
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4514,12 +4811,12 @@
             },
             {
                 "to": {
-                    "startLine": 926,
+                    "startLine": 942,
                     "startColumn": 4,
-                    "startOffset": 65518,
-                    "endLine": 933,
+                    "startOffset": 66411,
+                    "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 65912
+                    "endOffset": 66805
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4527,12 +4824,12 @@
             },
             {
                 "to": {
-                    "startLine": 934,
+                    "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 65917,
-                    "endLine": 940,
+                    "startOffset": 66810,
+                    "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 66257
+                    "endOffset": 67150
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"
@@ -4540,12 +4837,12 @@
             },
             {
                 "to": {
-                    "startLine": 941,
+                    "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 66262,
-                    "endLine": 952,
+                    "startOffset": 67155,
+                    "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 66836
+                    "endOffset": 67729
                 },
                 "from": {
                     "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values/styles.xml"

@@ -30,6 +30,8 @@ public class RingingAlarmActivity extends Activity {
 	private AlarmsManager alarmsManger;
 	public static final int SNOOZING_NOTIFICATION_ID = 222;
 	private int snooze;
+	//public Intent intent_music;
+	public Vibrator vi;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -106,7 +108,7 @@ public class RingingAlarmActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 
-				Intent intent = new Intent(getApplicationContext(),
+				final Intent intent= new Intent(getApplicationContext(),
 						MediaPlayerService.class);
 				intent.putExtra(Alarm.INTENT_ID, alarm.getId());
 				stopService(intent);
@@ -149,7 +151,7 @@ public class RingingAlarmActivity extends Activity {
 				MediaPlayerService.class);
 		intent.putExtra(MediaPlayerService.START_PLAY, true);
 		intent.putExtra(Alarm.INTENT_ID, alarmId);
-		Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+		vi = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 		// Start without a delay
 		// Vibrate for 100 milliseconds
 		// Sleep for 1000 milliseconds
@@ -158,7 +160,7 @@ public class RingingAlarmActivity extends Activity {
 		// The '0' here means to repeat indefinitely
 		// '0' is actually the index at which the pattern keeps repeating from (the start)
 		// To repeat the pattern from any other point, you could increase the index, e.g. '1'
-		v.vibrate(pattern, 0);
+		vi.vibrate(pattern, 0);
 
 		startService(intent);
 
@@ -168,10 +170,11 @@ public class RingingAlarmActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 
-				Intent intent = new Intent(getApplicationContext(),
+			final	Intent intent = new Intent(getApplicationContext(),
 						MediaPlayerService.class);
+
 				stopService(intent);
-				Vibrator vi = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+				//Vibrator vi = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 				vi.cancel();
 				alarmsManger.cancelAlarm(alarm.getId() + 1000);
 
@@ -189,9 +192,6 @@ public class RingingAlarmActivity extends Activity {
 				finish();
 			}
 		});
-
-
-
 
 	}
 

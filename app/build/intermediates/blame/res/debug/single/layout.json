@@ -4,6 +4,10 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/range_bar.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_decor_overlay.xml"
     },
@@ -148,6 +152,10 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/media_picker.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -162,6 +170,10 @@
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth_activity_settings.xml",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth_activity_settings.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",

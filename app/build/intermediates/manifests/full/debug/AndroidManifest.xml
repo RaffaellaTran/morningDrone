@@ -4,30 +4,8 @@
     android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
     android:versionCode="1"
     android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="17"
-        android:targetSdkVersion="19" />
-
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.VIBRATE" />
-    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
-    <uses-permission android:name="android.permission.BLUETOOTH" />
-    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.USES_POLICY_FORCE_LOCK" />
-
-    <supports-screens
-        android:largeScreens="true"
-        android:normalScreens="true"
-        android:smallScreens="true"
-        android:xlargeScreens="true" />
-
     <!--
-    <application
+<application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
@@ -64,6 +42,33 @@
         </receiver>
     </application>
     -->
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+
+    <!--
+        <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+    -->
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.USES_POLICY_FORCE_LOCK" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -108,7 +113,7 @@
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth"
+            android:name="net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceScanActivity"
             android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -118,7 +123,11 @@
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.SearchDeviceActivityBluetooth" />
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.SettingsActivityBluetooth" />
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.NextActivityBluetooth" />
+        <activity android:name="net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceControlActivity" />
 
+        <service
+            android:name="net.raffy.mp3alarmclock.bluetooth_LE_GATT.BluetoothLeService"
+            android:enabled="true" />
         <service
             android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"
             android:enabled="true"

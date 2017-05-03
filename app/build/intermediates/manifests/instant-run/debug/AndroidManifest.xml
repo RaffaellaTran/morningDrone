@@ -108,7 +108,7 @@
                 android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.bluetooth.MyActivityBluetooth"
+            android:name="net.raffy.mp3alarmclock.Bluetooth_LE_GATT.DeviceScanActivity"
             android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -118,7 +118,11 @@
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.SearchDeviceActivityBluetooth" />
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.SettingsActivityBluetooth" />
         <activity android:name="net.raffy.mp3alarmclock.bluetooth.NextActivityBluetooth" />
+        <activity android:name="net.raffy.mp3alarmclock.Bluetooth_LE_GATT.DeviceControlActivity" />
 
+        <service
+            android:name="net.raffy.mp3alarmclock.Bluetooth_LE_GATT.BluetoothLeService"
+            android:enabled="true" />
         <service
             android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"
             android:enabled="true"

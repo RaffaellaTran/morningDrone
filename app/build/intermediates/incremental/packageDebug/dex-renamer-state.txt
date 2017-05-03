@@ -1,7 +1,4 @@
-#Mon May 01 16:23:36 CEST 2017
-base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a5a27d6297c979311e6ee155871898303d054039
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d00352350ea148048db483d7a99787850653ba0/classes.dex
-base.1=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d00352350ea148048db483d7a99787850653ba0
-file.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a5a27d6297c979311e6ee155871898303d054039/classes.dex
+#Wed May 03 13:39:56 CEST 2017
+base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
