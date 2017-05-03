@@ -256,12 +256,12 @@
         "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxhdpi/ic_action_play.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_su_checked1.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxhdpi/ic_action_su_checked1.png"
-    },
-    {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vibration.png",
         "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_vibration.png"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_su_checked1.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxhdpi/ic_action_su_checked1.png"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png",
