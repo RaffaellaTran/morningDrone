@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.raffy.mp3alarmclock"
+    package="net.raffy.morningDrone"
     android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
     android:versionCode="1"
     android:versionName="1.0">
@@ -32,7 +32,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.MainActivity"
+            android:name="net.raffy.morningDrone.view.activity.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,66 +41,66 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.RingingAlarmActivity"
-            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity"
+            android:name="net.raffy.morningDrone.view.activity.RingingAlarmActivity"
+            android:parentActivityName="net.raffy.morningDrone.view.activity.MainActivity"
             android:theme="@style/AppThemeNoActionBar" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+                android:value="net.raffy.morningDrone.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.AboutActivity"
-            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            android:name="net.raffy.morningDrone.view.activity.AboutActivity"
+            android:parentActivityName="net.raffy.morningDrone.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+                android:value="net.raffy.morningDrone.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.bluetooth.MainActivityBluetooth"
-            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            android:name="net.raffy.morningDrone.bluetooth.MainActivityBluetooth"
+            android:parentActivityName="net.raffy.morningDrone.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+                android:value="net.raffy.morningDrone.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.morning_drone.Bluetooth2"
-            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            android:name="net.raffy.morningDrone.morning_drone.Bluetooth2"
+            android:parentActivityName="net.raffy.morningDrone.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+                android:value="net.raffy.morningDrone.view.activity.MainActivity" />
         </activity>
         <activity
-            android:name="net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceScanActivity"
-            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            android:name="net.raffy.morningDrone.bluetooth_LE_GATT.DeviceScanActivity"
+            android:parentActivityName="net.raffy.morningDrone.view.activity.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+                android:value="net.raffy.morningDrone.view.activity.MainActivity" />
         </activity>
-        <activity android:name=".bluetooth.MonitorActivityBluetooth"/>
-        <activity android:name=".bluetooth.SearchDeviceActivityBluetooth"/>
-        <activity android:name=".bluetooth.SettingsActivityBluetooth"/>
-        <activity android:name=".bluetooth.NextActivityBluetooth"/>
-        <activity android:name=".bluetooth_LE_GATT.DeviceControlActivity"/>
-        <service android:name=".bluetooth_LE_GATT.BluetoothLeService" android:enabled="true"/>
+        <activity android:name="net.raffy.morningDrone.bluetooth.MonitorActivityBluetooth"/>
+        <activity android:name="net.raffy.morningDrone.bluetooth.SearchDeviceActivityBluetooth"/>
+        <activity android:name="net.raffy.morningDrone.bluetooth.SettingsActivityBluetooth"/>
+        <activity android:name="net.raffy.morningDrone.bluetooth.NextActivityBluetooth"/>
+        <activity android:name="net.raffy.morningDrone.bluetooth_LE_GATT.DeviceControlActivity"/>
+        <service android:name="net.raffy.morningDrone.bluetooth_LE_GATT.BluetoothLeService" android:enabled="true"/>
 
         <service
-            android:name="net.raffy.mp3alarmclock.view.MediaPlayerService"
+            android:name="net.raffy.morningDrone.view.MediaPlayerService"
             android:enabled="true"
             android:permission="net.raffy.mp3alarmclock.MY_SERVICE_PERMISSION" />
 
         <receiver
-            android:name="net.raffy.mp3alarmclock.view.PlayAlarmReceiver"
+            android:name="net.raffy.morningDrone.view.PlayAlarmReceiver"
             android:enabled="true" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
         <provider
-            android:name="net.raffy.mp3alarmclock.view.activity.AlarmClockProvider"
-            android:authorities="net.raffy.mp3alarmclock.provider"
+            android:name="net.raffy.morningDrone.view.activity.AlarmClockProvider"
+            android:authorities="net.raffy.morningDrone.provider"
             android:exported="false" />
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.AlarmNotificationActivity"
+            android:name="net.raffy.morningDrone.view.activity.AlarmNotificationActivity"
             android:screenOrientation="portrait"
             android:launchMode="singleInstance"
             android:taskAffinity=""
@@ -113,7 +113,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="net.raffy.mp3alarmclock.view.activity.ScreenOffActivity"
+            android:name="morningDroneview.activity.ScreenOffActivity"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" >
             <intent-filter>
@@ -125,13 +125,13 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="net.raffy.mp3alarmclock.view.activity.ScreenOffEventReceiver" >
+        <receiver android:name="morningDroneview.activity.ScreenOffEventReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.PHONE_STATE" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="net.raffy.mp3alarmclock.view.activity.ScreenOffAdminReceiver"
+            android:name="morningDroneview.activity.ScreenOffAdminReceiver"
             android:description="@string/device_admin_description"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_DEVICE_ADMIN" >

@@ -20,11 +20,13 @@
             <item
                 android:id="@+id/action_about"
                 android:title="@string/action_about"/>
-             <item android:id="@+id/bluetooth"
-                 android:title="@string/bluetooth" />
-            <item android:id="@+id/bluetooth2"
-                android:title="@string/bluetooth2" />
-            <!--<item android:id="@+id/default_options"
+          <item android:id="@+id/bluetooth"
+                android:title="@string/bluetooth" />-->
+           <item android:id="@+id/bluetooth2"
+               android:title="@string/bluetooth2" />
+            <!--<item android:id="@+id/settings"
+                android:title="@string/action_settings" />
+            <item android:id="@+id/default_options"
                 android:title="@string/default_options" />
             <item android:id="@+id/display_notification"
                 android:title="@string/display_notification"
@@ -32,6 +34,4 @@
 
         </menu>
     </item>
-
-
 </menu>

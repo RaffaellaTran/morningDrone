@@ -26,18 +26,18 @@
                 android:layout_weight="2"
                 android:paddingBottom="@dimen/view_vertical_margin"
                 android:text="@string/alarm_time" />
-            <LinearLayout
+           <!-- <LinearLayout
                 android:orientation="horizontal"
                 android:layout_weight="1"
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content">
-                <Button
+                android:layout_height="wrap_content">-->
+               <!-- <Button
                     android:id="@+id/snooze_minus_five"
                     android:text="@string/minus_five"
                     android:textSize="36sp"
                     android:background="@drawable/rect_btn"
                     android:layout_width="wrap_content"
-                    android:layout_height="fill_parent" />
+                    android:layout_height="fill_parent" />-->
 
                 <Button
                     android:id="@+id/btn_snooze_alarm"
@@ -48,7 +48,7 @@
                     android:layout_marginTop="-40dp"
                     android:text="@string/btn_snooze_alarm" />
 
-                <Button
+               <!-- <Button
                     android:id="@+id/snooze_plus_five"
                     android:layout_width="wrap_content"
                     android:layout_height="250dp"
@@ -56,7 +56,7 @@
                     android:background="@drawable/rect_btn"
                     android:text="@string/plus_five"
                     android:textSize="36sp" />
-            </LinearLayout>
+            </LinearLayout> -->
 
         </LinearLayout>
     </ScrollView>
@@ -70,7 +70,7 @@
         android:drawablePadding="-120dp"
         android:paddingRight="90dp"
         android:text="@string/btn_stop_alarm" />
-    <TextView
+   <!-- <TextView
         style="@android:style/TextAppearance.Large"
         android:id="@+id/snooze_text"
         android:layout_gravity="center"
@@ -81,7 +81,7 @@
         android:paddingRight="50dp"
         android:layout_above="@+id/alarm_name"
         android:layout_marginBottom="7dp"
-        />
+        />-->
     <TextView
         android:id="@+id/alarm_name"
         style="@style/textViewNormal"
@@ -95,7 +95,7 @@
         android:layout_marginBottom="23dp"
         android:layout_above="@+id/alarm_label"
         android:layout_centerHorizontal="true" />
-    <TextView
+         <TextView
         android:id="@+id/alarm_label"
         android:textSize="36sp"
         android:layout_width="match_parent"

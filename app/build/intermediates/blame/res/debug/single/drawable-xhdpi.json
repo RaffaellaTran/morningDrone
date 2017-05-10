@@ -12,16 +12,16 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_label_outline.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete_alarm.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xhdpi/ic_action_delete_alarm.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_ab_transparent_light_holo.9.png",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete_alarm.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xhdpi/ic_action_delete_alarm.png"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/appthemeyellow_textfield_default_holo_light.9.png",
@@ -410,6 +410,10 @@
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_volume_up.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_volume_up.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/a.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xhdpi/a.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm.png",

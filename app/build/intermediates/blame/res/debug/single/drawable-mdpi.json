@@ -16,12 +16,12 @@
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_snooze.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_snooze.png"
-    },
-    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_clear_normal.png",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_snooze.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_snooze.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_listview_bg.png",
@@ -68,28 +68,28 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_alarm.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_today.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_today.png"
-    },
-    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_we_checked1.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-mdpi/ic_action_we_checked1.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_today.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_today.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/appthemeyellow_scrubber_control_pressed_holo.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-mdpi/appthemeyellow_scrubber_control_pressed_holo.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_solid_dark_holo.9.png",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/appthemeyellow_scrubber_control_disabled_holo.png",
@@ -354,6 +354,10 @@
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/appthemeyellow_list_activated_holo.9.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-mdpi/appthemeyellow_list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/a.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-mdpi/a.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png",

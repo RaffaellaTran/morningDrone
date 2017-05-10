@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:2:1-147:12
 	package
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:3:5-38
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml
 		INJECTED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -78,12 +78,12 @@ MERGED from [com.android.support:appcompat-v7:19.1.0] /home/raffy/.android/build
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:31:9-45
 	android:theme
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:33:9-40
-activity#net.raffy.mp3alarmclock.view.activity.MainActivity
+activity#net.raffy.morningDrone.view.activity.MainActivity
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:34:9-42:20
 	android:label
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:36:13-45
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:35:13-78
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:35:13-77
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
@@ -94,99 +94,99 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:40:17-77
 	android:name
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:40:27-74
-activity#net.raffy.mp3alarmclock.view.activity.RingingAlarmActivity
+activity#net.raffy.morningDrone.view.activity.RingingAlarmActivity
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:43:9-50:20
 	android:parentActivityName
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:45:13-92
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:45:13-91
 	android:theme
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:46:13-55
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:44:13-86
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:44:13-85
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:47:13-49:86
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:47:13-49:85
 	android:value
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:49:17-83
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:49:17-82
 	android:name
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:48:17-63
-activity#net.raffy.mp3alarmclock.view.activity.AboutActivity
+activity#net.raffy.morningDrone.view.activity.AboutActivity
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:51:9-57:20
 	android:parentActivityName
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:53:13-92
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:53:13-91
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:52:13-79
-activity#net.raffy.mp3alarmclock.bluetooth.MainActivityBluetooth
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:52:13-78
+activity#net.raffy.morningDrone.bluetooth.MainActivityBluetooth
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:58:9-64:20
 	android:parentActivityName
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:60:13-92
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:60:13-91
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:59:13-83
-activity#net.raffy.mp3alarmclock.morning_drone.Bluetooth2
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:59:13-82
+activity#net.raffy.morningDrone.morning_drone.Bluetooth2
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:65:9-71:20
 	android:parentActivityName
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:67:13-92
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:67:13-91
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:66:13-76
-activity#net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceScanActivity
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:66:13-75
+activity#net.raffy.morningDrone.bluetooth_LE_GATT.DeviceScanActivity
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:72:9-78:20
 	android:parentActivityName
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:74:13-92
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:74:13-91
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:73:13-88
-activity#net.raffy.mp3alarmclock.bluetooth.MonitorActivityBluetooth
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:79:9-71
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:73:13-87
+activity#net.raffy.morningDrone.bluetooth.MonitorActivityBluetooth
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:79:9-93
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:79:19-69
-activity#net.raffy.mp3alarmclock.bluetooth.SearchDeviceActivityBluetooth
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:80:9-76
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:79:19-91
+activity#net.raffy.morningDrone.bluetooth.SearchDeviceActivityBluetooth
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:80:9-98
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:80:19-74
-activity#net.raffy.mp3alarmclock.bluetooth.SettingsActivityBluetooth
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:81:9-72
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:80:19-96
+activity#net.raffy.morningDrone.bluetooth.SettingsActivityBluetooth
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:81:9-94
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:81:19-70
-activity#net.raffy.mp3alarmclock.bluetooth.NextActivityBluetooth
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:82:9-68
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:81:19-92
+activity#net.raffy.morningDrone.bluetooth.NextActivityBluetooth
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:82:9-90
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:82:19-66
-activity#net.raffy.mp3alarmclock.bluetooth_LE_GATT.DeviceControlActivity
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:83:9-76
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:82:19-88
+activity#net.raffy.morningDrone.bluetooth_LE_GATT.DeviceControlActivity
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:83:9-98
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:83:19-74
-service#net.raffy.mp3alarmclock.bluetooth_LE_GATT.BluetoothLeService
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:9-95
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:83:19-96
+service#net.raffy.morningDrone.bluetooth_LE_GATT.BluetoothLeService
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:9-117
 	android:enabled
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:71-93
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:93-115
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:18-70
-service#net.raffy.mp3alarmclock.view.MediaPlayerService
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:84:18-92
+service#net.raffy.morningDrone.view.MediaPlayerService
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:86:9-89:82
 	android:enabled
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:88:13-35
 	android:permission
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:89:13-79
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:87:13-75
-receiver#net.raffy.mp3alarmclock.view.PlayAlarmReceiver
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:87:13-74
+receiver#net.raffy.morningDrone.view.PlayAlarmReceiver
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:91:9-97:20
 	android:enabled
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:93:13-35
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:92:13-74
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:92:13-73
 intent-filter#android.intent.action.BOOT_COMPLETED
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:94:13-96:29
 action#android.intent.action.BOOT_COMPLETED
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:95:17-79
 	android:name
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:95:25-76
-provider#net.raffy.mp3alarmclock.view.activity.AlarmClockProvider
+provider#net.raffy.morningDrone.view.activity.AlarmClockProvider
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:98:9-101:40
 	android:authorities
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:100:13-67
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:100:13-66
 	android:exported
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:101:13-37
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:99:13-84
-activity#net.raffy.mp3alarmclock.view.activity.AlarmNotificationActivity
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:99:13-83
+activity#net.raffy.morningDrone.view.activity.AlarmNotificationActivity
 ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:102:9-107:49
 	android:screenOrientation
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:104:13-49
@@ -197,7 +197,7 @@ ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidMa
 	android:taskAffinity
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:106:13-36
 	android:name
-		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:103:13-91
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:103:13-90
 uses-sdk
 INJECTED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:19.1.0] /home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/AndroidManifest.xml:18:5-42

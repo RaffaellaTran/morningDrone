@@ -32,12 +32,12 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_alarm_on.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_tu_not_checked1.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_action_tu_not_checked1.png"
-    },
-    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_tu_not_checked1.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_action_tu_not_checked1.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_we_not_checked1.png",

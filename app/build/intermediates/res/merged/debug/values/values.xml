@@ -193,8 +193,8 @@
     <string name="alarm_time">9:00</string>
     <string name="alarm_tone">Alarm tone</string>
     <string name="am">AM</string>
-    <string name="app_name">mp3 alarm</string>
-    <string name="app_version_credits">Version 1.0 beta \n \n Drop us a line at \n mp3alarmclock@gmail.com</string>
+    <string name="app_name">Morning Drone</string>
+    <string name="app_version_credits">Version 1.0 beta \n \n ICT Innovation project. \n Group 7</string>
     <string name="artists">Artists</string>
     <string name="ble_not_supported">BLE is not supported</string>
     <string name="bluetooth">bluetooth</string>
@@ -281,11 +281,11 @@
     <string name="songs">Songs</string>
     <string name="sunday"><u/></string>
     <string name="system_default">System default</string>
-    <string name="thank_you">Thank you for using mp3alarm!</string>
+    <string name="thank_you">Thank you for using Morning Drone!</string>
     <string name="thursday"><u/></string>
     <string name="time_out_error">WARNING: This alarm has timed out waiting for an acknowledgment.</string>
     <string name="time_out_title">Alarm time out</string>
-    <string name="title_devices">BLE Device Scan</string>
+    <string name="title_devices">Morning Drone</string>
     <string name="tuesday"><u/></string>
     <string name="unknown_characteristic">Unknown characteristic</string>
     <string name="unknown_device">Unknown device</string>
@@ -298,7 +298,7 @@
         <item name="android:actionBarStyle">@style/actionBar</item>
         <item name="android:windowBackground">@color/white</item>
 
-        
+        <!-- Support library compatibility -->
         <item name="actionBarStyle">@style/actionBar</item>
         <item name="background">@color/white</item>
     </style>
@@ -391,19 +391,19 @@
     <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
         <item name="isLightTheme">false</item>
 
-        
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
         <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
         <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
         <item name="searchResultListItemHeight">58dip</item>
 
-        
+        <!-- Popup Menu styles -->
         <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
         <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
         <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
         <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
 
-        
+        <!-- SearchView attributes -->
         <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
         <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
         <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
@@ -419,7 +419,7 @@
         <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
         <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
 
-        
+        <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
     <style name="Theme.AppCompat.Base.CompactMenu" parent="">
@@ -436,19 +436,19 @@
     <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
         <item name="isLightTheme">true</item>
 
-        
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
         <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
         <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
         <item name="searchResultListItemHeight">58dip</item>
 
-        
+        <!-- Popup Menu styles -->
         <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
         <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
         <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
         <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
 
-        
+        <!-- SearchView attributes -->
         <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
         <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
         <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
@@ -464,25 +464,25 @@
         <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
         <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
 
-        
+        <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
     </style>
     <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
         <item name="isLightTheme">true</item>
 
-        
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
         <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
         <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
         <item name="searchResultListItemHeight">58dip</item>
 
-        
+        <!-- Popup Menu styles -->
         <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
         <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
         <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
         <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
 
-        
+        <!-- SearchView attributes -->
         <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
         <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
         <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
@@ -498,14 +498,14 @@
         <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
         <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
 
-        
+        <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
     <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light.DialogWhenLarge"/>
     <style name="Theme.Base" parent="android:Theme"/>
     <style name="Theme.Base.AppCompat" parent="Theme.Base">
         <item name="windowActionBar">true</item>
-        
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
         <item name="android:windowNoTitle">true</item>
         <item name="buttonBarStyle">@android:style/ButtonBar</item>
         <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
@@ -534,17 +534,17 @@
         <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
         <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
 
-        
+        <!-- Dropdown Spinner Attributes -->
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
 
-        
+        <!-- Action Mode -->
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
         <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
 
-        
+        <!-- Panel attributes -->
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
         <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
         <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
@@ -556,7 +556,7 @@
         <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
         <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
         <item name="windowActionBar">true</item>
-        
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
         <item name="android:windowNoTitle">true</item>
         <item name="buttonBarStyle">@android:style/ButtonBar</item>
         <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
@@ -571,14 +571,14 @@
         <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
         <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
 
-        
+        <!-- Action Mode -->
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
         <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
 
-        
+        <!-- Panel attributes -->
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
         <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
         <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
@@ -588,7 +588,7 @@
     <style name="Theme.Base.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat"/>
     <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
         <item name="windowActionBar">true</item>
-        
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
         <item name="android:windowNoTitle">true</item>
         <item name="buttonBarStyle">@android:style/ButtonBar</item>
         <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
@@ -604,7 +604,7 @@
         <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
         <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
 
-        
+        <!-- Action Bar Styles -->
         <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
@@ -619,17 +619,17 @@
         <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
         <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
 
-        
+        <!-- Action Mode -->
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
         <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
 
-        
+        <!-- Dropdown Spinner Attributes -->
         <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
 
-        
+        <!-- Panel attributes -->
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
         <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
         <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
@@ -647,17 +647,17 @@
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
         <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
 
-        
+        <!-- Action Mode -->
         <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
         <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
 
-        
+        <!-- Dropdown Spinner Attributes -->
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
 
-        
+        <!-- Panel attributes -->
         <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
         <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
     </style>
