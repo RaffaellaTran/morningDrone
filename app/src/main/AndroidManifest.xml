@@ -105,6 +105,13 @@
             android:launchMode="singleInstance"
             android:taskAffinity=""
             android:excludeFromRecents="true" />
+        <activity
+            android:name="net.raffy.mp3alarmclock.view.activity.DispatcherActivity"
+            android:parentActivityName="net.raffy.mp3alarmclock.view.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="net.raffy.mp3alarmclock.view.activity.MainActivity" />
+        </activity>
     </application>
 
 

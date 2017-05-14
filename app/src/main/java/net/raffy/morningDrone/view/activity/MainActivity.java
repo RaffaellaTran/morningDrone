@@ -101,9 +101,9 @@ public class MainActivity extends Activity implements
 			case R.id.bluetooth:
 				Intent intent2 = new Intent(this, DeviceScanActivity.class);
 				startActivity(intent2); 	return true;
-			case R.id.bluetooth2:
-				Intent intent3 = new Intent(this, Bluetooth2.class);
-				startActivity(intent3); 	return true;
+			//case R.id.bluetooth2:
+			//	Intent intent3 = new Intent(this, Bluetooth2.class);
+			//	startActivity(intent3); 	return true;
 			/*case R.id.default_options:
 				 AlarmOptions options = new AlarmOptions();
 				Bundle b = new Bundle();

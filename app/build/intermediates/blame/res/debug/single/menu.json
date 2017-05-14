@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/menu/gatt_services.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/menu/gatt_services.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/menu/main_activity_actions.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/menu/main_activity_actions.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/menu/main.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/menu/main_activity_actions.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/menu/main_activity_actions.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/menu/gatt_services.xml"
     }
 ]

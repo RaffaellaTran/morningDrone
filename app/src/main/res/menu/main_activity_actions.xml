@@ -1,5 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context="com.example.mp3alarm.MainActivity">
 
     <!--
@@ -20,6 +21,9 @@
             <item
                 android:id="@+id/action_about"
                 android:title="@string/action_about"/>
+            <item android:id="@+id/bluetooth"
+                android:title="@string/bluetooth" />
+            <item android:id="@+id/default_options"
           <item android:id="@+id/bluetooth"
                 android:title="@string/bluetooth" />-->
            <item android:id="@+id/bluetooth2"
@@ -30,7 +34,11 @@
                 android:title="@string/default_options" />
             <item android:id="@+id/display_notification"
                 android:title="@string/display_notification"
-                android:checkable="true" />-->
+                android:checkable="true" />
+            <item android:id="@+id/action_settings"
+                android:title="@string/action_settings"
+                android:orderInCategory="100"
+                app:showAsAction="never" />
 
         </menu>
     </item>
