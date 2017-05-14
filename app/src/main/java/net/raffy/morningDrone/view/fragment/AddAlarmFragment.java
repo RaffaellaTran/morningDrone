@@ -4,13 +4,16 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 
+
 public class AddAlarmFragment extends AlarmFragment {
+
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setRetainInstance(true);
 	}
+
 
 	@Override
 	protected OnClickListener getCreateAlarmButtonClickListener() {

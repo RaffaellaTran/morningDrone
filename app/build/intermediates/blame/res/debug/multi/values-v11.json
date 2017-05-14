@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 210
                 },
                 "from": {
-                    "file": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/values-v11/styles.xml",
+                    "file": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 1052
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1864
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 2688
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 3542
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -116,7 +116,7 @@
                     "endOffset": 3655
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -135,7 +135,7 @@
                     "endOffset": 3750
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -154,7 +154,7 @@
                     "endOffset": 3867
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -173,7 +173,7 @@
                     "endOffset": 3992
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-v11/values.xml",
+                    "file": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
