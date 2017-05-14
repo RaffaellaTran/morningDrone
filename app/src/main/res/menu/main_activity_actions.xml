@@ -23,7 +23,7 @@
                 android:title="@string/action_about"/>
             <item android:id="@+id/bluetooth"
                 android:title="@string/bluetooth" />
-            <item android:id="@+id/default_options"
+            <!--<item android:id="@+id/default_options"
           <item android:id="@+id/bluetooth"
                 android:title="@string/bluetooth" />-->
            <item android:id="@+id/bluetooth2"
@@ -39,7 +39,7 @@
                 android:title="@string/action_settings"
                 android:orderInCategory="100"
                 app:showAsAction="never" />
-
+-->
         </menu>
     </item>
 </menu>
