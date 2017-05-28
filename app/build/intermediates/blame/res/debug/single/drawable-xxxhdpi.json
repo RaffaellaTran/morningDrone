@@ -24,28 +24,20 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_action_su_not_checked1.png"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
-    },
-    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_alarm_on.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_alarm_on.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_onoff_pressed.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxxhdpi/ic_action_onoff_pressed.png"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_sa_checked1.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxxhdpi/ic_action_sa_checked1.png"
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_sa_not_checked1.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xxxhdpi/ic_action_sa_not_checked1.png"
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_tu_not_checked1.png",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_action_tu_not_checked1.png"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_we_not_checked1.png",

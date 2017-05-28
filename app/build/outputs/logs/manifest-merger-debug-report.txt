@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:2:1-147:12
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:2:1-154:12
 	package
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml
@@ -68,7 +68,7 @@ ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidMa
 	android:xlargeScreens
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:27:9-37
 application
-ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:29:5-108:19
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:29:5-115:19
 MERGED from [com.android.support:appcompat-v7:19.1.0] /home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/AndroidManifest.xml:19:5-20
 	android:label
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:32:9-41
@@ -198,6 +198,12 @@ ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidMa
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:106:13-36
 	android:name
 		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:103:13-90
+activity#net.raffy.mp3alarmclock.view.activity.DispatcherActivity
+ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:108:9-114:20
+	android:parentActivityName
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:110:13-92
+	android:name
+		ADDED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml:109:13-84
 uses-sdk
 INJECTED from /home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:19.1.0] /home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/AndroidManifest.xml:18:5-42

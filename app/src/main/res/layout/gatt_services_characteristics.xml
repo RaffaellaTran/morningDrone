@@ -14,6 +14,7 @@
      limitations under the License.
 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -65,11 +66,11 @@
             android:text="@string/no_data"
             android:textSize="18sp"/>
     </LinearLayout>
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+
+    <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        tools:ignore="TextFields,HardcodedText" >
+        tools:ignore="TextFields,HardcodedText">
 
         <TextView
             android:id="@+id/label"
@@ -83,34 +84,39 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/label"
             android:background="@android:drawable/editbox_background" />
-
-        <Button
-            android:id="@+id/open"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_below="@id/entry"
-            android:layout_marginStart="10dip"
-            android:text="Open" />
-            <!--android:layout_alignParentRight="true"
-            android:layout_marginLeft="10dip"-->
+        <!--
+                <Button
+                    android:id="@+id/open"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_below="@id/entry"
+                    android:layout_marginStart="10dip"
+                    android:text="Open" />
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10dip"-->
         <Button
             android:id="@+id/send"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignTop="@id/open"
-            android:layout_toStartOf="@+id/open"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/entry"
+            android:layout_marginStart="10dip"
             android:text="Send" />
-            <!--android:layout_toLeftOf="@id/open"-->
-        <Button
-            android:id="@+id/close"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignTop="@id/send"
-            android:layout_toStartOf="@+id/send"
-            android:text="Close" />
-        <!--  android:layout_toLeftOf="@id/send"-->
+        <!-- android:layout_alignTop="@id/open"
+         android:layout_toStartOf="@+id/open"-->
+
+        <!--android:layout_toLeftOf="@id/open"-->
+        <!--  <Button
+              android:id="@+id/close"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignTop="@id/send"
+              android:layout_toStartOf="@+id/send"
+              android:text="Close" />
+            android:layout_toLeftOf="@id/send"-->
     </RelativeLayout>
+
     <ExpandableListView android:id="@+id/gatt_services_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>

@@ -19,13 +19,13 @@
     <string name="delete_alarm">delete</string>
     <string name="alarm_name">wake up message</string>
     <string name="alarm_music">Music</string>
-    <string name="monday"><u></u></string>
-    <string name="tuesday"><u></u></string>
-    <string name="wednesday"><u></u></string>
-    <string name="thursday"><u></u></string>
-    <string name="friday"><u></u></string>
-    <string name="saturday"><u></u></string>
-    <string name="sunday"><u></u></string>
+    <string name="monday"><u>monday</u></string>
+    <string name="tuesday"><u>tuesday</u></string>
+    <string name="wednesday"><u>wednesday</u></string>
+    <string name="thursday"><u>thursday</u></string>
+    <string name="friday"><u>friday</u></string>
+    <string name="saturday"><u>saturday</u></string>
+    <string name="sunday"><u>sunday</u></string>
     <string name="done">Done</string>
 
     <!-- fragment_add_alarm.xml -->
@@ -131,4 +131,18 @@
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
+    <string name="height">altezza</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="drone">Drone</string>
+    <string name="half">Half meter</string>
+    <string name="oneMeter">One meter</string>
+    <string name="oneHalfMeter">One and half meter</string>
+    <string name="refresh">refresh</string>
+
+    <string-array name="height">
+        <item>@string/half</item>
+        <item>@string/oneMeter</item>
+        <item>@string/oneHalfMeter</item>
+    </string-array>
 </resources>

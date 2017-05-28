@@ -21,6 +21,7 @@
 
             <!-- style="@style/timePicker" -->
 
+
             <TimePicker
                 android:id="@+id/time_picker"
                 android:layout_width="wrap_content"
@@ -157,18 +158,41 @@
                 android:progressDrawable="@drawable/appthemeyellow_scrubber_progress_horizontal_holo_light"
                 android:thumb="@drawable/appthemeyellow_scrubber_control_selector_holo_light" />
 
+            <Switch
+                android:id="@+id/drone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/seekbar_alarm_volume"
+                android:layout_marginBottom="31dp"
+                android:checked="false"
+                android:textOff="@string/off"
+                android:textOn="@string/on"
+                android:text="@string/drone"
+                android:onClick="setDrone"/>
+
+            <Spinner
+                android:id="@+id/height"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/music_volume_icon"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="28dp" />
+
             <EditText
                 android:id="@+id/alarm_name"
                 style="@style/editTextNormal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/seekbar_alarm_volume"
-                android:layout_centerHorizontal="true"
                 android:background="@drawable/appthemeyellow_edit_text_holo_light"
                 android:gravity="center_horizontal"
-                android:hint="@string/alarm_name" />
+                android:hint="@string/alarm_name"
+                android:layout_below="@+id/height"
+                android:layout_alignParentStart="true" />
         </RelativeLayout>
     </ScrollView>
+
+
 
     <Button
         android:id="@+id/save_alarm_btn"
@@ -177,5 +201,6 @@
         android:drawableRight="@drawable/ic_action_accept"
         android:paddingRight="90dp"
         android:text="@string/save_alarm" />
+
 
 </RelativeLayout>

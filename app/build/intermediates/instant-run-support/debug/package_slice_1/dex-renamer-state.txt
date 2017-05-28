@@ -1,4 +1,4 @@
-#Thu May 04 23:30:20 CEST 2017
+#Sat May 27 18:50:08 CEST 2017
 base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
 renamed.0=classes.dex
 file.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

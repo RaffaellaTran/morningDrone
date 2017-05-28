@@ -8,7 +8,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Vibrator;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -19,10 +18,7 @@ import android.widget.TextView;
 import net.raffy.morningDrone.R;
 import net.raffy.morningDrone.model.Alarm;
 import net.raffy.morningDrone.morning_drone.AlarmsManager;
-import net.raffy.morningDrone.view.AlarmNotificationService;
 import net.raffy.morningDrone.view.MediaPlayerService;
-
-import static android.content.ContentValues.TAG;
 
 
 public class RingingAlarmActivity extends Activity {
@@ -57,9 +53,9 @@ public class RingingAlarmActivity extends Activity {
 		TextView alarmName = (TextView) findViewById(R.id.alarm_name);
 		alarmName.setText(alarm.getName());
 
-		final long alarmid = getIntent().getLongExtra(
+		/*final long alarmid = getIntent().getLongExtra(
 				AlarmNotificationService.ALARM_ID, DbUtil.Settings.DEFAULTS_ID);
-		Log.i(TAG, "Alarm notification intent " + alarmid);
+		Log.i(TAG, "Alarm notification intent " + alarmid);*/
 
 
 		// Pull snooze from saved state or options database.

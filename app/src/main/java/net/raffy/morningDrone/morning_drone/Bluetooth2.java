@@ -43,9 +43,9 @@ public class Bluetooth2 extends DeviceControlActivity //DeviceScanActivity
             super.onCreate(savedInstanceState);
             setContentView(R.layout.listitem_device);
 
-            Button openButton = (Button)findViewById(R.id.open);
+            //Button openButton = (Button)findViewById(R.id.open);
             Button sendButton = (Button)findViewById(R.id.send);
-            Button closeButton = (Button)findViewById(R.id.close);
+            //Button closeButton = (Button)findViewById(R.id.close);
             myLabel = (TextView)findViewById(R.id.label);
             myTextbox = (EditText)findViewById(R.id.entry);
 
@@ -77,7 +77,7 @@ public class Bluetooth2 extends DeviceControlActivity //DeviceScanActivity
             });
 
             //Close button
-            closeButton.setOnClickListener(new View.OnClickListener()
+           /* closeButton.setOnClickListener(new View.OnClickListener()
             {
                 public void onClick(View v)
                 {
@@ -87,7 +87,7 @@ public class Bluetooth2 extends DeviceControlActivity //DeviceScanActivity
                     }
                     catch (IOException ex) { }
                 }
-            });
+            });*/
         }
 
         void findBT()

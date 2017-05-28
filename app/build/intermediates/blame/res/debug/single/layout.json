@@ -8,80 +8,16 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/gatt_services_characteristics.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/activity_device_list.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth_main.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth_main.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_home.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_decor_include.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/edit_alarm_fragment.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/edit_alarm_fragment.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/alarms_listview.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/alarms_listview.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/device_name.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/device_name.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/about_activity.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/about_activity.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/media_picker.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/media_picker.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth_activity_settings.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth_activity_settings.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/ringing_alarm_activity.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/ringing_alarm_activity.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
-        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/add_alarm_fragment.xml",
@@ -100,12 +36,24 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/media_picker_item.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -116,8 +64,24 @@
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_home.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/settings.xml",
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/edit_alarm_fragment.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/edit_alarm_fragment.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -132,32 +96,32 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/fragment_main.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/alarms_listview.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/alarms_listview.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth2.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth2.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/about_activity.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/about_activity.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth_activity_next.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth_activity_next.xml"
-    },
-    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_action_mode_close_item.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth.xml"
-    },
-    {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/notification.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/notification.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -168,12 +132,20 @@
         "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/listitem_device.xml"
     },
     {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/media_picker.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/media_picker.xml"
+    },
+    {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/bluetooth_monitor.xml",
-        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/bluetooth_monitor.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/fragment_set_high.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/fragment_set_high.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/choose_music_dialog.xml",
@@ -186,6 +158,10 @@
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/raffy/.android/build-cache/69f6bf20ea5ee1eb4cb6ad3c2e7615d38172a00e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/ringing_alarm_activity.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/src/main/res/layout/ringing_alarm_activity.xml"
     },
     {
         "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",

@@ -11,11 +11,9 @@ import android.view.MenuItem;
 import android.widget.ListAdapter;
 
 import net.raffy.morningDrone.R;
-import net.raffy.morningDrone.bluetooth_LE_GATT.DeviceScanActivity;
 import net.raffy.morningDrone.morning_drone.AlarmsManager;
 import net.raffy.morningDrone.morning_drone.Bluetooth2;
 import net.raffy.morningDrone.view.AlarmsListArrayAdapter;
-import net.raffy.morningDrone.view.StaticWakeLock;
 import net.raffy.morningDrone.view.fragment.AddAlarmFragment;
 import net.raffy.morningDrone.view.fragment.AlarmsListFragment;
 import net.raffy.morningDrone.view.fragment.EditAlarmFragment;
@@ -99,11 +97,11 @@ public class MainActivity extends Activity implements
 				Intent intent = new Intent(this, AboutActivity.class);
 				startActivity(intent); 	return true;
 			case R.id.bluetooth:
-				Intent intent2 = new Intent(this, DeviceScanActivity.class);
+				Intent intent2 = new Intent(this, Bluetooth2.class);
 				startActivity(intent2); 	return true;
-			//case R.id.bluetooth2:
-			//	Intent intent3 = new Intent(this, Bluetooth2.class);
-			//	startActivity(intent3); 	return true;
+			/*case R.id.high:
+				Intent intent3 = new Intent(this, SetHighFragment.class);
+				startActivity(intent3); 	return true;
 			/*case R.id.default_options:
 				 AlarmOptions options = new AlarmOptions();
 				Bundle b = new Bundle();
@@ -172,11 +170,6 @@ public class MainActivity extends Activity implements
 		refreshListAdapter();
 	}
 
-    @Override
-    protected void onPause() {
-        super.onPause();
-        StaticWakeLock.lockOff(this);
-    }
 
 	@Override
 	protected void onStop() {

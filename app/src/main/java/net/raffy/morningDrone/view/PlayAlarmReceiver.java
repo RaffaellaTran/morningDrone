@@ -24,7 +24,7 @@ public class PlayAlarmReceiver extends BroadcastReceiver {
 			onReboot(context);
 			return;
 		}
-		StaticWakeLock.lockOn(context);
+
 		long alarmId = intent.getLongExtra(Alarm.INTENT_ID, -1);
 
 		Intent startRingingActivityIntent = new Intent(context,

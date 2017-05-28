@@ -15,13 +15,19 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
+import android.widget.Spinner;
+import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.TimePicker;
+import android.widget.Toast;
 
 import net.raffy.morningDrone.R;
 import net.raffy.morningDrone.model.Alarm;
@@ -30,7 +36,7 @@ import net.raffy.morningDrone.view.activity.MainActivity;
 import java.io.File;
 import java.util.Calendar;
 
-public abstract class AlarmFragment extends Fragment {
+public abstract class AlarmFragment extends Fragment implements AdapterView.OnItemSelectedListener {
 
 	public static final int READ_REQUEST_CODE = 42;
 
@@ -50,6 +56,8 @@ public abstract class AlarmFragment extends Fragment {
 	protected Button saveAlarmBtn;
 	private SeekBar alarmVolumeSeekbar = null;
 	private AudioManager audioManager = null;
+	private Spinner spinner;
+
 
 	/**
 	 * Used to store the chosen mp3 file which the user has selected but not yet
@@ -65,6 +73,7 @@ public abstract class AlarmFragment extends Fragment {
 		super.onCreate(savedInstanceState);
 
 		getActivity().setVolumeControlStream(AudioManager.STREAM_MUSIC);
+
 	}
 
 	@Override
@@ -86,6 +95,25 @@ public abstract class AlarmFragment extends Fragment {
 		fr = (CheckBox) rootView.findViewById(R.id.friday);
 		sa = (CheckBox) rootView.findViewById(R.id.saturday);
 		su = (CheckBox) rootView.findViewById(R.id.sunday);
+
+		Switch simpleSwitch = (Switch) rootView.findViewById(R.id.drone);
+
+//set the current state of a Switch
+		simpleSwitch.setChecked(false);
+		//displayed text of the Switch
+		simpleSwitch.setText("Drone");
+		simpleSwitch.setTextOn("On"); // displayed text of the Switch whenever it is in checked or on state
+		simpleSwitch.setTextOff("Off"); // displayed text of the Switch whenever it is in unchecked i.e. off state
+
+
+        //spinner
+
+        spinner=(Spinner) rootView.findViewById(R.id.height);
+
+        ArrayAdapter adapter= ArrayAdapter.createFromResource(getActivity(), R.array.height, android.R.layout.simple_spinner_dropdown_item);
+        spinner.setAdapter(adapter);
+        spinner.setOnItemSelectedListener(this);
+
 
 		addMusicBtn = (Button) rootView.findViewById(R.id.btn_add_music);
 		addMusicBtn.setOnClickListener(new OnClickListener() {
@@ -324,4 +352,31 @@ public abstract class AlarmFragment extends Fragment {
 	public void onResume() {
 		super.onResume();
 	}
+
+
+	public void setDrone() {
+
+
+	}
+
+	@Override
+    public void onItemSelected(AdapterView <?> adapterView, View view, int i, long l){
+        TextView myText = (TextView) view;
+        if (myText.getText()==getResources().getStringArray(R.array.height)[1]){
+
+			Toast.makeText(getActivity(), " è giustooooo "+myText.getText(), Toast.LENGTH_SHORT).show();
+		}
+		else{
+		Toast.makeText(getActivity(), "You selected "+myText.getText(), Toast.LENGTH_SHORT).show();}
+
+
+
+    }
+    @Override
+    public void onNothingSelected(AdapterView <?> adapterView){
+
+
+    }
+
 }
+

@@ -1,4 +1,4 @@
-#Thu May 04 23:30:20 CEST 2017
+#Sat May 27 18:50:07 CEST 2017
 base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_a46d09f4744045f21e51182b01f30362704d0c40
 renamed.1=classes.dex
 renamed.0=classes2.dex
