@@ -240,12 +240,12 @@
         "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xhdpi/ic_action_mo_not_checked.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_alarm_off.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xhdpi/ic_action_alarm_off.png"
-    },
-    {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_snooze.png",
         "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_snooze.png"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_alarm_off.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/drawable-xhdpi/ic_action_alarm_off.png"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_su_not_checked1.png",

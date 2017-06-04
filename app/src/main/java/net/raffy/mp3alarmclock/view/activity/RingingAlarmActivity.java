@@ -39,7 +39,7 @@ import net.raffy.mp3alarmclock.model.HomeKeyLocker;
 public class RingingAlarmActivity extends Activity  {
 
 	//private ToggleButton mTbLock;
-	private HomeKeyLocker mHomeKeyLocker;
+	//private HomeKeyLocker mHomeKeyLocker;
 
 
 	private Window window;
@@ -50,18 +50,48 @@ public class RingingAlarmActivity extends Activity  {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
-		mHomeKeyLocker = new HomeKeyLocker();
+		//mHomeKeyLocker = new HomeKeyLocker();
 		//mTbLock = (ToggleButton) findViewById(R.id.tb_lock);
 		//mTbLock.setOnCheckedChangeListener(this);
 
 		window = this.getWindow();
-		window.addFlags(WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD);
+
 		// Make sure this window always shows over the lock screen.
 		window.addFlags(WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED);
 		window.addFlags(WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON);
 		window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 		window.requestFeature(Window.FEATURE_ACTION_BAR);
 		getActionBar().hide();
+
+		window.addFlags(WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD);
+
+		final View view = (View) findViewById(android.R.id.content);
+		if (view != null) {
+			//"hides" back, home and return button on screen.
+			view.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LOW_PROFILE |
+					View.SYSTEM_UI_FLAG_HIDE_NAVIGATION |
+					View.SYSTEM_UI_FLAG_IMMERSIVE |
+					View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY |
+					View.SYSTEM_UI_FLAG_FULLSCREEN);
+			view.setOnSystemUiVisibilityChangeListener
+					(new View.OnSystemUiVisibilityChangeListener() {
+						@Override
+						public void onSystemUiVisibilityChange(int visibility) {
+							// Note that system bars will only be "visible" if none of the
+							// LOW_PROFILE, HIDE_NAVIGATION, or FULLSCREEN flags are set.
+							if ((visibility & View.SYSTEM_UI_FLAG_FULLSCREEN) == 0) {
+								view.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LOW_PROFILE |
+										View.SYSTEM_UI_FLAG_HIDE_NAVIGATION |
+										View.SYSTEM_UI_FLAG_IMMERSIVE |
+										View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY |
+										View.SYSTEM_UI_FLAG_FULLSCREEN);
+							}
+						}
+					});
+		}
+
+
+
 
 		setContentView(R.layout.ringing_alarm_activity);
 
@@ -226,19 +256,19 @@ public class RingingAlarmActivity extends Activity  {
 					//TODO
 				}
 				return true;
-			case KeyEvent.KEYCODE_HOME:
+			/*case KeyEvent.KEYCODE_HOME:
 				if (action == KeyEvent.ACTION_DOWN) {
-                    mHomeKeyLocker.lock(this);
-
-			}
-				//return true;
-
+					//TODO
+				}
+				return true;
+							//return true;
+*/
 			default:
 				return super.dispatchKeyEvent(event);
 		}
 	}
 
-	@Override
+	/*@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event)
 	{
 		if(keyCode==KeyEvent.KEYCODE_HOME)
@@ -246,7 +276,7 @@ public class RingingAlarmActivity extends Activity  {
 			onStop();
 		}
 		return super.onKeyDown(keyCode, event);
-	}
+	}*/
 
 
 	@Override
@@ -294,6 +324,43 @@ public class RingingAlarmActivity extends Activity  {
 	}
 */
 
+	/*@Override
+	public void onAttachedToWindow() {
+		super.onAttachedToWindow();
+		//this.getWindow().setType(WindowManager.LayoutParams.TYPE_KEYGUARD);
+	}
+
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+
+		if(keyCode == KeyEvent.KEYCODE_HOME)
+		{
+			//The Code Want to Perform.
+		}
+		return super.onKeyDown(keyCode, event);
+	}
+
+
+*/
+/*	@Override
+	protected void onUserLeaveHint()
+	{
+		Log.d("onUserLeaveHint","Home button pressed");
+		super.onUserLeaveHint();
+	}
+*/
+
+////
+@Override
+public void onWindowFocusChanged(boolean hasFocus) {
+	super.onWindowFocusChanged(hasFocus);
+	if(!hasFocus) {
+		// Close every kind of system dialog
+		Intent closeDialog = new Intent(Intent.ACTION_CLOSE_SYSTEM_DIALOGS);
+		sendBroadcast(closeDialog);
+	}
+}
+////
 
 	@Override
 	protected void onResume() {

@@ -384,12 +384,12 @@
         "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable-mdpi/abc_ic_search.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_alarm.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_alarm.png"
-    },
-    {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_cab_done_holo_dark.png",
         "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_alarm.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_alarm.png"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_divider_holo_dark.9.png",
