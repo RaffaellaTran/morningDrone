@@ -116,26 +116,27 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/checkbox_container_row"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:paddingBottom="4dp"
         android:paddingLeft="4dp"
-        android:paddingRight="4dp" >
+        android:paddingRight="4dp">
 
         <TextView
             android:id="@+id/alarm_name"
             style="@style/textViewNormal"
-            android:layout_gravity="left"
+            android:layout_above="@+id/alarm_music"
+            android:layout_gravity="center"
             android:layout_weight="2"
-            android:gravity="left"
+            android:gravity="center"
             android:paddingRight="20dp"
             android:textColor="@color/greyLight" />
 
         <TextView
             android:id="@+id/alarm_music"
             style="@style/textViewNormal"
-            android:layout_gravity="right"
+            android:layout_gravity="center"
             android:layout_weight="1"
-            android:gravity="right"
+            android:gravity="center"
             android:textColor="@color/greyLight" />
     </LinearLayout>
 

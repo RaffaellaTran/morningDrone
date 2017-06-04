@@ -176,12 +176,12 @@
         "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable-hdpi/abc_ic_menu_share_holo_light.png"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_alarm.png",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_alarm.png"
-    },
-    {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png",
         "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_alarm.png",
+        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_alarm.png"
     },
     {
         "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_delete_alarm_pressed.png",

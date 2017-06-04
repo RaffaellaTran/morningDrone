@@ -1,46 +1,46 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_label_outline.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_label_outline.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_vibration.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_vibration.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_snooze.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_snooze.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_access_time.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_access_time.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_volume_up.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_volume_up.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_forward.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_forward.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_music_note.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_music_note.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_volume_up.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_volume_up.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_alarm.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_alarm.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_today.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_today.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_forward.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_forward.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_music_note.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_music_note.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_label_outline.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_label_outline.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_alarm_on.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_alarm_on.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_snooze.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_snooze.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_vibration.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_vibration.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_alarm_on.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_alarm_on.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_today.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_today.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_access_time.xml",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_access_time.xml"
+        "merged": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_alarm.xml",
+        "source": "/home/raffy/AndroidStudioProjects/MorningDrone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_alarm.xml"
     }
 ]
