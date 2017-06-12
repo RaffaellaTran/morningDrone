@@ -6,7 +6,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "net.raffy.mp3alarmclock"
+        applicationId "net.raffy.morningDrone"
         minSdkVersion 17
         targetSdkVersion 19
     }

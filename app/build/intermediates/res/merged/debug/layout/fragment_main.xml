@@ -3,8 +3,8 @@
     android:id="@+id/fragment_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="net.raffy.mp3alarmclock.view.activity.MainActivity" />
-<!-- tools:context="net.raffy.mp3alarmclock.view.activity.MainActivity$PlaceholderFragment" />
+    tools:context="net.raffy.morningDrone.view.activity.MainActivity" />
+<!-- tools:context="morningDroneview.activity.MainActivity$PlaceholderFragment" />
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

@@ -1,0 +1,7 @@
+#Sat May 27 18:50:07 CEST 2017
+base.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_a46d09f4744045f21e51182b01f30362704d0c40
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad4cc5b96f4d16ab4a61d8e738c76ae5ceaa28d0/classes.dex
+base.1=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad4cc5b96f4d16ab4a61d8e738c76ae5ceaa28d0
+file.0=/home/raffy/AndroidStudioProjects/MorningDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_a46d09f4744045f21e51182b01f30362704d0c40/classes.dex
