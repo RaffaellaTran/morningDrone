@@ -1,8 +1,11 @@
 package net.raffy.mp3alarmclock.view.activity;
 
 import android.app.Activity;
+import android.app.AlarmManager;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
+import android.app.PendingIntent;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -179,6 +182,7 @@ public class MainActivity extends Activity implements
 		super.onStop();
 		getAlarmsManager().close();
 	}
+
 
 	public AlarmsManager getAlarmsManager() {
 		return alarmsManager;

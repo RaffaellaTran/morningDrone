@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/layout-v11/abc_simple_decor.xml"
-    },
-    {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/layout-v11/abc_action_bar_decor.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/layout-v11/abc_screen_content_include.xml"
     }
 ]

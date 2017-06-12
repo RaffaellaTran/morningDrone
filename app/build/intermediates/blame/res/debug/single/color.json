@@ -1,6 +1,38 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/color/abc_search_url_text_holo.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/color/abc_primary_text_disable_only_material_light.xml"
     }
 ]

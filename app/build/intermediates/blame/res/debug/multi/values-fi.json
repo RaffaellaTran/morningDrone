@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+        "outputFile": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 56,
                         "endColumn": 107,
-                        "endOffset": 381
+                        "endOffset": 159
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 163,
-                    "endColumn": 99,
-                    "endOffset": 258
+                    "endColumn": 107,
+                    "endOffset": 266
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 386,
-                        "endColumn": 99,
-                        "endOffset": 481
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 263,
-                    "endColumn": 100,
-                    "endOffset": 359
+                    "startOffset": 271,
+                    "endColumn": 122,
+                    "endOffset": 389
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 486,
-                        "endColumn": 100,
-                        "endOffset": 582
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 364,
-                    "endColumn": 85,
-                    "endOffset": 445
+                    "startOffset": 394,
+                    "endColumn": 99,
+                    "endOffset": 489
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 587,
-                        "endColumn": 85,
-                        "endOffset": 668
+                        "startOffset": 395,
+                        "endColumn": 99,
+                        "endOffset": 490
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 450,
-                    "endColumn": 104,
-                    "endOffset": 550
+                    "startOffset": 494,
+                    "endColumn": 100,
+                    "endOffset": 590
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 673,
-                        "endColumn": 104,
-                        "endOffset": 773
+                        "startOffset": 495,
+                        "endColumn": 100,
+                        "endOffset": 591
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 555,
-                    "endColumn": 117,
-                    "endOffset": 668
+                    "startOffset": 595,
+                    "endColumn": 85,
+                    "endOffset": 676
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 778,
-                        "endColumn": 117,
-                        "endOffset": 891
+                        "startOffset": 596,
+                        "endColumn": 85,
+                        "endOffset": 677
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 673,
-                    "endColumn": 106,
-                    "endOffset": 775
+                    "startOffset": 681,
+                    "endColumn": 104,
+                    "endOffset": 781
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 896,
-                        "endColumn": 106,
-                        "endOffset": 998
+                        "startOffset": 682,
+                        "endColumn": 104,
+                        "endOffset": 782
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 780,
-                    "endColumn": 102,
-                    "endOffset": 878
+                    "startOffset": 786,
+                    "endColumn": 117,
+                    "endOffset": 899
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1003,
-                        "endColumn": 102,
-                        "endOffset": 1101
+                        "startOffset": 787,
+                        "endColumn": 117,
+                        "endOffset": 900
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 883,
-                    "endColumn": 96,
-                    "endOffset": 975
+                    "startOffset": 904,
+                    "endColumn": 106,
+                    "endOffset": 1006
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1106,
-                        "endColumn": 96,
-                        "endOffset": 1198
+                        "startOffset": 905,
+                        "endColumn": 106,
+                        "endOffset": 1007
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 980,
-                    "endColumn": 105,
-                    "endOffset": 1081
+                    "startOffset": 1011,
+                    "endColumn": 102,
+                    "endOffset": 1109
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1203,
-                        "endColumn": 105,
-                        "endOffset": 1304
+                        "startOffset": 1012,
+                        "endColumn": 102,
+                        "endOffset": 1110
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1086,
-                    "endColumn": 98,
-                    "endOffset": 1180
+                    "startOffset": 1114,
+                    "endColumn": 96,
+                    "endOffset": 1206
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1309,
-                        "endColumn": 98,
-                        "endOffset": 1403
+                        "startOffset": 1115,
+                        "endColumn": 96,
+                        "endOffset": 1207
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1185,
-                    "endColumn": 103,
-                    "endOffset": 1284
+                    "startOffset": 1211,
+                    "endColumn": 105,
+                    "endOffset": 1312
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1408,
-                        "endColumn": 103,
-                        "endOffset": 1507
+                        "startOffset": 1212,
+                        "endColumn": 105,
+                        "endOffset": 1313
                     }
                 }
             },
@@ -234,18 +234,56 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1289,
-                    "endColumn": 118,
-                    "endOffset": 1403
+                    "startOffset": 1317,
+                    "endColumn": 98,
+                    "endOffset": 1411
                 },
                 "from": {
-                    "file": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/values-fi/values.xml",
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1512,
+                        "startOffset": 1318,
+                        "endColumn": 98,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1416,
+                    "endColumn": 103,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 103,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 118,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1521,
                         "endColumn": 118,
-                        "endOffset": 1626
+                        "endOffset": 1635
                     }
                 }
             }

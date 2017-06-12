@@ -3,21 +3,30 @@
 
     <item
         is-multidex="true"
+        jar="/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c073ecacc428b997d93eb457fd5ad2cc77f100a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
         <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23aa065c0ce1f19440deb0a2dd25f38d77079a66/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/macbook/AndroidStudioProjects/OldNewMORNING/morningdrone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/pre-dexed/debug/classes_0c4bb0f192f00c07dde1eec1ebe3435d2746d0e1.jar" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/macbook/AndroidStudioProjects/OldNewMORNING/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_da9ca9486bc677a7448a85a79c9c2f969fd24528/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,17 +34,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e38ab008d270b2880cee1397b7bbd8520551a328">
+        sha1="b1b208010ea5312201d6d765c16665d81e3d02a1">
         <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c83accb16e7ef257735c67b36bffb0839b055b7/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_ee8f9d869b376c59154cd5f4a1e4454b35c86161.jar" />
+        sha1="b4d894539463951e6a17da4859f379403fee2eff">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5131039fc743167abefb101f5d2c57ed857c481c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/AndroidStudioProjects/OldNewMORNING/morningdrone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52c80927cc2e9806360fd173b799c5476f9164d8">
+        <dex dex="/Users/macbook/AndroidStudioProjects/OldNewMORNING/morningdrone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_766cff3eb7af58bb9fb486b9154092109524ed54/classes.dex" />
     </item>
 
 </items>

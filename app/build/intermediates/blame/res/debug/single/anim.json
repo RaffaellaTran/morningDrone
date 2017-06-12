@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_fade_in.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/macbook/.android/build-cache/d6adc5d0e3b6f5c728a754a72a5d7fd69ef5908b/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/macbook/.android/build-cache/0b38bc47ae44f5b63c3e3bd0d8fa4058cb077c4c/output/res/anim/abc_fade_out.xml"
     }
 ]

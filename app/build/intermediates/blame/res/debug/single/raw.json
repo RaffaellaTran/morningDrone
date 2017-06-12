@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/raw/best_wake_up_sound.mp3",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/raw/best_wake_up_sound.mp3"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/raw/best_wake_up_sound.mp3",
+        "source": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/src/main/res/raw/best_wake_up_sound.mp3"
     },
     {
-        "merged": "/Users/macbook/AndroidStudioProjects/morningdrone/app/build/intermediates/res/merged/debug/raw/autobots_roll_out.mp3",
-        "source": "/Users/macbook/AndroidStudioProjects/morningdrone/app/src/main/res/raw/autobots_roll_out.mp3"
+        "merged": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/build/intermediates/res/merged/debug/raw/autobots_roll_out.mp3",
+        "source": "/Users/macbook/AndroidStudioProjects/Pref/morningdrone/app/src/main/res/raw/autobots_roll_out.mp3"
     }
 ]
