@@ -9,7 +9,7 @@ The user set the alarm clock on the mobile app. When the alarm rings, the drone
 actually flies around in the user's room and he/she has to interact with it in
 order to switch off.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/RaffaellaTran/morningDrone/blob/master/scheme.png)
 
 ## Morning Drone Mobile App
 
