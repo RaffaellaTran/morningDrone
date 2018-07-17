@@ -16,3 +16,4 @@ order to switch off.
 The mobile app is a simple alarm clock for only Android devices.
 It sends a message to the drone when the alarm rings through the Bluetooth and receives a message when the drone is catched 
 by the user.
+
