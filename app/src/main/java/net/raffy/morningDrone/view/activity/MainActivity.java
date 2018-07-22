@@ -60,24 +60,6 @@ public class MainActivity extends Activity implements
 				fm.executePendingTransactions();
 
 			}
-			//
-			// if (getIntent().getAction() != null
-			// && getIntent().getAction().equals("ringing alarm")) {
-			// RingingAlarmFragment ringingAlarmFragment = new
-			// RingingAlarmFragment();
-			//
-			// FragmentManager fm = getFragmentManager();
-			// FragmentTransaction ft = fm.beginTransaction();
-			//
-			// Bundle b = new Bundle();
-			// b.putLong(Alarm.INTENT_ID,
-			// getIntent().getLongExtra(Alarm.INTENT_ID, -1));
-			// ringingAlarmFragment.setArguments(b);
-			//
-			// ft.replace(R.id.fragment_container, ringingAlarmFragment);
-			// ft.commit();
-			// fm.executePendingTransactions();
-			// }
 		}
 
 	}
@@ -102,63 +84,6 @@ public class MainActivity extends Activity implements
 			case R.id.bluetooth:
 				Intent intent2 = new Intent(this, Bluetooth2.class);
 				startActivity(intent2); 	return true;
-			/*case R.id.high:
-				Intent intent3 = new Intent(this, SetHighFragment.class);
-				startActivity(intent3); 	return true;
-			/*case R.id.default_options:
-				 AlarmOptions options = new AlarmOptions();
-				Bundle b = new Bundle();
-				b.putLong( AlarmNotificationService.ALARM_ID, DbUtil.Settings.DEFAULTS_ID);
-				options.setArguments(b);
-				options.show(getFragmentManager(), "default_alarm_options");
-				return true;
-
-			case R.id.display_notification:
-				boolean new_val = !item.isChecked();
-				item.setChecked(new_val);
-				PreferenceManager.getDefaultSharedPreferences(this)
-						.edit()
-						.putBoolean(AlarmNotificationService.DISPLAY_NOTIFICATION, new_val)
-						.commit();
-				AlarmNotificationService.refreshNotificationBar(this);
-				return true;*/
-
-			/*case R.id.delete_all:
-				new DialogFragment() {
-					@Override
-					public Dialog onCreateDialog(Bundle savedInstanceState) {
-						return new AlertDialog.Builder(getContext())
-								.setTitle(R.string.delete)
-								.setMessage(R.string.delete_all_sure)
-								.setNegativeButton(R.string.cancel, null)
-								.setPositiveButton(
-										R.string.ok, new DialogInterface.OnClickListener() {
-											@Override
-											public void onClick(DialogInterface dialog, int which) {
-												// Find all of the enabled alarm ids.
-												LinkedList<Long> ids = new LinkedList<Long>();
-												Cursor c = getContentResolver().query(
-														AlarmClockProvider.ALARMS_URI,
-														new String[] { AlarmClockProvider.AlarmEntry._ID },
-														AlarmClockProvider.AlarmEntry.ENABLED + " == 1",
-														null, null);
-												while (c.moveToNext())
-													ids.add(c.getLong(c.getColumnIndex(
-															AlarmClockProvider.AlarmEntry._ID)));
-												c.close();
-												// Delete the entire alarm table.
-												getContext().getContentResolver().delete(
-														AlarmClockProvider.ALARMS_URI, null, null);
-												// Unschedule any alarms that were active.
-												for (long id : ids)
-													 AlarmNotificationService.removeAlarmTrigger(
-															getContext(), id);
-											}
-										}).create();
-					}
-				}.show(getFragmentManager(), "confirm_delete_all");
-
-				return true;*/
 			default:
 				return super.onOptionsItemSelected(item);
 		}
@@ -230,16 +155,6 @@ public class MainActivity extends Activity implements
 		alarmAdapter.notifyDataSetChanged();
 
 	}
-
-
-
-	// public void onDeleteButtonClickListener(View view) {
-	// Long alarmId = (Long) view.getTag();
-	// alarmsManager.cancelAlarm(alarmId, true);
-	// refreshListAdapter();
-	// alarmAdapter.notifyDataSetChanged();
-	// alarmsListFragment.getListView().invalidateViews();
-	// }
 
 	public ListAdapter getListAdaptor() {
 		return alarmAdapter;
